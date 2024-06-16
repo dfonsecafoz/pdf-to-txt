@@ -1,6 +1,0 @@
-Pages: 40, Start: 0, End: 293
-b) enteados (filhos do cônjuge ou companheiro) - 1º  grau 
-c) filhos dos enteados (netos do cônjuge ou companh eiro) - 2º grau 
-d) netos dos enteados (bisnetos do cônjuge ou compa nheiro) - 3º grau 
-Linha colateral a) cunhados - 2º grau 
-b) tios e sobrinhos do cônjuge ou companheiro - 3º grau

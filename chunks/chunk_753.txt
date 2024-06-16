@@ -1,9 +1,0 @@
-Pages: 227, Start: 0, End: 644
-processos, sendo que cada processo possui atividade s e papéis bem definidos que se 
-refletem na atuação de cada prestador de serviço, s upervisores e gerentes. 
-7.3. Os processos ITIL da SETIN nos quais as equipes de su porte deverão trabalhar são: Gestão 
-de Incidentes, Cumprimento de Requisição, Gestão de Pr oblemas, Gestão de Níveis de 
-Serviços e Gestão de Conhecimento. 
-7.3.1. No que diz respeito à Gestão de Incidentes e Cumprim ento de Requisição, os técnicos 
-deverão entender as diferenças entre incidente e re quisição, as devidas prioridades de 
-cada caso, as necessidades relacionadas ao diagnóst ico e tratamento de incidentes,

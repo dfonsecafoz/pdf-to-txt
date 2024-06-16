@@ -23,6 +23,10 @@ def main():
     uploaded_file = st.file_uploader("Envie seu PDF", type="pdf")
 
     if uploaded_file is not None:
+        # Parâmetros ajustáveis
+        chunk_size = st.sidebar.slider("Chunk Size", 500, 2000, 1000, 100)
+        chunk_overlap = st.sidebar.slider("Chunk Overlap", 50, 500, 200, 50)
+
         # Salvar o arquivo carregado em um arquivo temporário
         with NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_file:
             tmp_file.write(uploaded_file.read())
@@ -39,8 +43,8 @@ def main():
         # Carregar o PDF e dividir em páginas usando PyPDFLoader
         loader = PyPDFLoader(tmp_file_path)
         documents = loader.load_and_split(text_splitter=RecursiveCharacterTextSplitter(
-            chunk_size=1000,  # tamanho do chunk
-            chunk_overlap=200  # sobreposição entre chunks
+            chunk_size=chunk_size,  # tamanho do chunk
+            chunk_overlap=chunk_overlap  # sobreposição entre chunks
         ))
 
         chunks = []

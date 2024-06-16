@@ -1,6 +1,0 @@
-Pages: 204, Start: 0, End: 423
-antivírus, videoconferência, transmissões de áudio e vídeo das sessões de julgamento, etc. O 
-objetivo principal deste serviço é fornecer habilid ades e recursos técnicos especializados para 
-suportar os serviços fornecidos pela SETIN aos usuári os de TIC do TST; 
-1.2.4 SUPORTE TÉCNICO ESPECIALIZADO AOS GABINETES E MINISTROS: 
-realização de atividades de suporte técnico aos gab inetes e Ministros. O objetivo principal é

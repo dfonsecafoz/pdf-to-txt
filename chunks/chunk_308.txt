@@ -1,8 +1,0 @@
-Pages: 90, Start: 0, End: 581
-Unidades Judiciárias: SAG, SIJ, e -SIJ, Gabinete Eletrônico, Plenário Eletrônico, 
-SAD, SPJ, PJe e demais sistemas utilizados n o Tribunal;  
-3.9.1.3 realizar atendimento presencial aos finais de semana e feriados para fins de 
-suporte técnico aos Ministros;  
-3.9.1.4 pesquisar, criar, alterar, revisar, desativar e manter as informações da Base 
-de Conhecimento, tais como, manuais técni cos, tutoriais e outros documentos 
-relacionados à prestação do serviço;  Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E

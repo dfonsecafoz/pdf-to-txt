@@ -1,7 +1,0 @@
-Pages: 238, Start: 0, End: 236
-I-05 Tempo para início de 
-atendimento de demandas 
-registradas por e-mail ou I=A/B *100 
-I=indicador em percentual A=total das demandas registradas cujo No mínimo, 90% das 
-demandas devem iniciar 
-o atendimento em até 5 <90% e >=80% 1%

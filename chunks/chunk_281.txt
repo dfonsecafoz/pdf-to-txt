@@ -1,9 +1,0 @@
-Pages: 81, Start: 0, End: 617
-3.4.1.6 gerenciar as equipes, redistribuir demandas e empreender esforços para 
-garantir que os indicadores de nível de serviço se jam cumpridos;  
-3.4.1.7 gerenciar pendências relativas aos atendimentos;  
-3.4.1.8 identificar falhas nos processos desenvolvidos por sua equipe e reportar ao 
-Gerente da Central de Serviços;  
-3.4.1.9  orientar a atuação dos técnicos em situações críticas de tr abalho, bem 
-como interagir com os usuários quando a situação requerer, inclusive de forma 
-presencial;  Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E

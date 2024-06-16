@@ -1,7 +1,0 @@
-Pages: 138, Start: 0, End: 405
-(%)Valor
-(R$)
-AAviso prévio indenizado Módulo 1 0,42% 8,69                 
-BIncidência do FGTS sobre aviso prévio indenizado Item 4.4-A 8,00% 0,69                 
-CMulta do FGTS sobre aviso prévio indenizado Item 4.4-A 4,78% 0,41                 
-TOTAL SUBMÓDULO 4.4 9,79               Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A501753180083FD7XF

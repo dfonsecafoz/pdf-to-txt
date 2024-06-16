@@ -1,9 +1,0 @@
-Pages: 98, Start: 0, End: 353
-Externo  676 1,0%  
-Vespertino  Interno  34.061  50,5%  
-Externo  419 0,6%  
-CHAMADOS POR TURNO   2015  
-TURNO  PUBLICO  QUANTIDADE  PERCENTUAL  
-Matutino  Interno  45.665  44,8%  
-Externo  84 0,1%  
-Vespertino  Interno  56.122  55,1%  Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E

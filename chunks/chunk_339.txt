@@ -1,6 +1,0 @@
-Pages: 101, Start: 0, End: 431
-técnicos deverão entender as diferenças entre incidente e requisição, as devidas 
-prioridades de ca da caso, as necessidades relacionadas ao diagnóstico e 
-tratamento de incidentes, classificação e escalonamento dos chamados, 
-relacionamento com usuários finais, dentre outras a tividades previstas no 
-processo;  Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E
