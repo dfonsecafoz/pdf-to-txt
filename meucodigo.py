@@ -1,3 +1,4 @@
+import os
 import PyPDF2
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
@@ -22,6 +23,11 @@ def save_text_to_file(text, txt_path):
 def main():
     pdf_path = 'meucodigo.pdf'
     txt_path = 'meucodigo.txt'
+    chunks_dir = './chunks'
+
+    # Criar o diretório /chunks se não existir
+    if not os.path.exists(chunks_dir):
+        os.makedirs(chunks_dir)
 
     text = extract_text_from_pdf(pdf_path)
     print(text)
@@ -41,12 +47,13 @@ def main():
     # Gerar embeddings para os chunks
     embeddings = model.encode(chunks, show_progress_bar=True)
 
-    # Salvar os chunks e os embeddings
+    # Salvar os chunks e os embeddings no diretório /chunks
     for i, (chunk, embedding) in enumerate(zip(chunks, embeddings)):
-        chunk_txt_path = f'chunk_{i+1}.txt'
+        chunk_txt_path = os.path.join(chunks_dir, f'chunk_{i+1}.txt')
         save_text_to_file(chunk, chunk_txt_path)
         print(f'Chunk {i+1} salvo em {chunk_txt_path}')
-        embedding_txt_path = f'embedding_{i+1}.txt'
+        
+        embedding_txt_path = os.path.join(chunks_dir, f'embedding_{i+1}.txt')
         save_text_to_file(str(embedding), embedding_txt_path)
         print(f'Embedding {i+1} salvo em {embedding_txt_path}')
 
