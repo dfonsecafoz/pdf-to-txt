@@ -1,0 +1,7 @@
+version: '3'
+services:
+  pdf_to_txt:
+    build: .
+    volumes:
+      - .:/app
+    command: python meucodigo.py
