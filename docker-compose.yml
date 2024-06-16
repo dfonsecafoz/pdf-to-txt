@@ -1,7 +1,10 @@
-version: '3'
+version: '3.8'
+
 services:
   pdf_to_txt:
     build: .
     volumes:
       - .:/app
-    command: python meucodigo.py
+    ports:
+      - "8501:8501"
+    command: streamlit run meucodigo.py --server.port=8501 --server.address=0.0.0.0
