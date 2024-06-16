@@ -1,0 +1,12 @@
+Pages: 219, Start: 0, End: 858
+incidentes); 
+4.10.7 suprimentos. 
+4.11 A Contratada deverá utilizar as ferramentas do T ST, que compõem os sistemas de gestão 
+de atendimento, para apoio à Central de Serviços; 
+4.12 A SETIN possui atualmente um sistema desenvolvido internamente que é utilizado como 
+repositório principal da base de conhecimentos. A pr incípio, todas as soluções providas pelo suporte 
+técnico deverão ser atualizadas ou cadastradas na b ase de conhecimento quando necessário. A 
+manutenção da base de conhecimento será auditada me nsalmente, por amostragem, quando não for 
+possível a verificação em sua totalidade, visando à  garantia da constante atualização, pertinência e 
+qualidade das informações. A Contratada estará sujeit a à aplicação de sanções e penalidades cabíveis 
+caso seus empregados venham a descumprir o processo  de manutenção da base de conhecimento.

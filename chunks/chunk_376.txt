@@ -1,0 +1,21 @@
+Pages: 116, Start: 0, End: 644
+igual ou inferior ao tempo 
+determinado  
+B=total de solicitações de 
+prioridade alta solucionadas  
+ 
+Obs.: Percentuais de glosa não 
+cumulativos para este indicador.  100% das demandas 
+de prioridade alta 
+devem ser 
+solucionadas em até 
+1TS  <100% e >=90%  0,5%  
+>90 e <=80%  1,5%  
+<80%  3% 
+I-12 Índice de demandas de 
+prioridade média  solucionadas 
+no tempo determinado  I = A / B * 100  
+I=indicador em percentual  
+A=total de solicitações de 100% das demandas 
+de prioridade média  
+devem ser < 80% em até 1TS  0,5%  Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E

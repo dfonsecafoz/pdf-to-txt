@@ -1,0 +1,23 @@
+Pages: 112, Start: 0, End: 716
+Obs.: Percentuais de glosa não 
+cumulativos para este indicador.  No mínimo, 90% das 
+demandas devem iniciar 
+o atendimento em até  5 
+minutos  <90% e >=80%  1% 
+<80%  2% 
+I-06 Índice de demandas 
+solucionados pelo Suporte 
+Remoto  I=A / B *100  
+I=indicador em percentual  
+A = quantidade de demandas registradas e 
+efetivamente solucionadas pelo suporte 
+remoto  
+B= total de incidentes recebidos  pelo 
+suporte remoto  
+ 
+Obs.: Percentuais de glosa não 
+cumulativos para este indicador.  No mínimo, 65 % das 
+demandas devem ser 
+solucionadas pelo 
+suporte remoto  < 65% e >=60%  1,5%  
+< 60%  3% Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E

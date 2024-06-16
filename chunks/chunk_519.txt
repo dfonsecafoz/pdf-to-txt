@@ -1,0 +1,22 @@
+Pages: 157, Start: 0, End: 946
+(R$)
+AMódulo 1: COMPOSIÇÃO DA REMUNERAÇÃO 2.652,94          
+BMódulo 2: BENEFÍCIOS MENSAIS E DIÁRIOS 685,38             
+CMódulo 3: INSUMOS DIVERSOS 117,98             
+DMódulo 4: ENCARGOS SOCIAIS E TRABALHISTAS 1.107,47          
+Subtotal (=A+B+C+D) 4.563,77          
+EMódulo 5: CUSTOS INDIRETOS, TRIBUTOS E LUCRO 1.806,18          
+VALOR TOTAL POR EMPREGADO 6.369,95       
+Contingenciamento fixado pela Resolução nº 169/2013 do CNJ
+Item Descrição Base de CálculoAlíquota
+(%)Valor
+(R$)
+A13º Salário Módulo 1 8,33% 220,98             
+BFérias Módulo 1 8,33% 220,98             
+CAdicional de férias Módulo 1 2,78% 73,75               
+Subtotal 1 515,71             
+DIncidência do Submódulo 4.1 Subtotal 1 15,80% 81,48               
+EMulta do FGTS sobre aviso prévio trabalhado Módulo 1 4,78% 126,74             
+VALOR TOTAL DO CONTINGENCIAMENTO MENSAL 723,93           
+n/a= Não se aplicaLegenda:F Módulo 1 -                   
+4.6 Módulo 1 -

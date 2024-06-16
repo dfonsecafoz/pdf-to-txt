@@ -1,0 +1,22 @@
+Pages: 163, Start: 0, End: 961
+Service Desk e Suporte 
+Técnico5) Técnico do Suporte 
+Presencial6.369,95 R$     1 6.369,95 R$     19 121.029,05 R$            
+Service Desk e Suporte 
+Técnico6) Técnico do Suporte Presencial - Equipe 
+Especializada em Hardware6.369,95 R$     1 6.369,95 R$     2 12.739,90 R$              
+Service Desk e Suporte 
+Técnico7) Técnico do Suporte 
+Presencial - Equipe 
+Especializada em Software6.369,95 R$     1 6.369,95 R$     7 44.589,65 R$              
+Service Desk e Suporte 
+Técnico8) Técnico do Suporte 
+Presencial - Equipe 
+Especializada em Telefonia6.369,95 R$     1 6.369,95 R$     7 44.589,65 R$              
+Service Desk e Suporte 
+Técnico9) Técnico do Suporte Presencial - Equipe Especializada de Gabinetes e 
+Ministros 30h6.369,95 R$     1 6.369,95 R$     6 38.219,70 R$              
+Service Desk e Suporte 
+Técnico10) Técnico do Suporte 
+Presencial - Equipe 
+Especializada de Gabinetes e Ministros 36h7.919,09 R$     1 7.919,09 R$     4 31.676,36 R$

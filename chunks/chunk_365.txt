@@ -1,0 +1,30 @@
+Pages: 111, Start: 0, End: 754
+69 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+ 
+INDICADORES  DO SERVIÇO DE SUPORTE TÉCNICO REMOTO  
+ 
+Código  Nome do Indicador  Fórmula de cálculo  Meta  Parâmetros para 
+aplicação da 
+redução na fatura  Redução na fatura do 
+mês correspondente 
+à prestação dos 
+serviços  
+I-03 Tempo médio de 
+conversação  I= A / B  
+I = indicador em minutos  
+A = somatório dos tempos de conversação  
+B = total de chamadas telefônicas 
+atendidas  
+ 
+Obs.: Percentuais de glosa não 
+cumulativos para este indicador.  O tempo médio de 
+conversação deve ser 
+inferior a 10 minutos  > 10 minutos e 
+<=15 minutos  1,5%  
+> 15 minutos  3% 
+I-04 Índice de chamadas 
+telefônicas atendidas no 
+prazo  I=A/B *100  
+I=indicador em percentual

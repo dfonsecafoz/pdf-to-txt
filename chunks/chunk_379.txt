@@ -1,0 +1,32 @@
+Pages: 118, Start: 0, End: 773
+76 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+ 90% devem ser 
+solucionadas em 
+até 4TS; 
+ 
+Tabela 20: Índices gerais e ocorrências  
+ 
+INDICADORES  GERAIS E OCORRÊNCIAS  
+ 
+Código  Nome do Indicador  Descrição  Meta  Limites  de 
+referência  Redução na fatura do 
+mês correspondente à 
+prestação dos 
+serviços  
+I-14 Índice de satisfação dos 
+usuários que respondem a 
+pesquisa por chamado  I = A / B * 100  
+I=indicador em percentual  
+A= total de respostas da pesquisa de 
+satisfação que consi deraram o serviço 
+prestado como ótimo ou bom  
+B=total de respostas da pesquisa de 
+satisfação  
+ 
+Obs.: Percentuais de glosa não 
+cumulativos para este indicador.  O percentual de 
+usuários que 
+consideram o serviço 
+ótimo ou bom deve ser

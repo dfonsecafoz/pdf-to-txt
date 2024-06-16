@@ -1,0 +1,26 @@
+Pages: 132, Start: 0, End: 964
+Módulo 3: INSUMOS DIVERSOS
+3 Insumo ReferênciaValor
+(R$)
+AUniformes Quadro 3.1 117,10             
+BInsumos diversos Quadro 3.2 0,88                 
+TOTAL MÓDULO 3 (Insumos) 117,98           
+Módulo 4: ENCARGOS SOCIAIS E TRABALHISTAS
+Submódulo 4.1: ENCARGOS PREVIDENCIÁRIOS E FGTS
+4.1 Encargo Previdenciário e FGTS Base de CálculoAlíquota
+(%)Valor
+(R$)
+AINSS Módulo 1 0,00% -                   
+BSESI ou SESC Módulo 1 1,50% 100,64             
+CSENAI ou SENAC Módulo 1 1,00% 67,09               
+DINCRA Módulo 1 0,20% 13,41               
+ESalário educação Módulo 1 2,50% 167,74             
+FFGTS Módulo 1 8,00% 536,78             
+GSeguro acidente do trabalho ajustado (=SATxFAP) Módulo 1 2,00% 134,19             
+HSEBRAE Módulo 1 0,60% 40,25               
+TOTAL SUBMÓDULO 4.1 15,80% 1.060,10       
+Submódulo 4.2: 13º SALÁRIO E ADICIONAL DE FÉRIAS
+4.2 13º Salário e Adicional de Férias Base de CálculoAlíquota
+(%)Valor
+(R$)
+A13º Salário Módulo 1 8,33% 558,93

@@ -1,0 +1,26 @@
+Pages: 236, Start: 0, End: 934
+66 
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho 
+K:\2018\Instrumentos Contratuais\Contratos\Minuta de  contratos\2018minutacontratoPE089 - serviços de se rvice desk.docx gpm 
+Tabela 15: Índices do suporte técnico remoto 
+ 
+INDICADORES DO SERVIÇO DE SUPORTE TÉCNICO REMOTO 
+ 
+Código  Nome do Indicador Fórmula de cálculo Meta Parâmetros para 
+aplicação da 
+redução na fatura Redução na fatura do 
+mês correspondente à 
+prestação dos 
+serviços 
+I-01 Índice de abandono I = A / B * 100  
+I = indicador em percentual A = total de chamadas abandonadas em tempo superior a 30 segundos B = total de chamadas recebidas  Obs.: Percentuais de glosa não cumulativos para este indicador. No máximo 4% das 
+ligações recebidas 
+podem ser abandonadas 
+pelo usuário. O 
+abandono é considerado 
+somente após 30 
+segundos de fila >4% e <=7% 1,5% 
+>7% 3% 
+I-02 Tempo médio na fila de 
+espera para atendimento 
+telefônico I = A / B

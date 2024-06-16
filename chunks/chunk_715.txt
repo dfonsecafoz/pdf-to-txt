@@ -1,0 +1,18 @@
+Pages: 214, Start: 0, End: 980
+44 
+Poder Judiciário 
+Justiça do Trabalho 
+Tribunal Superior do Trabalho 
+K:\2018\Instrumentos Contratuais\Contratos\Minuta de  contratos\2018minutacontratoPE089 - serviços de ser vice desk.docx gpm 
+3.7.1.4 pesquisar, criar, alterar, revisar, desativ ar e manter as informações da Base de 
+Conhecimento, tais como, manuais técnicos, tutoriais  e outros documentos relacionados à 
+prestação do serviço; 
+3.7.1.5 administrar objetos pertinentes aos acessos  de usuários no serviço de diretório da 
+rede; 
+3.7.1.6 configurar e manter, em conjunto com equipe  específica da SETIN, o ambiente de 
+estação virtual denominado Gabinete Virtual ( Citrix Metaframe );  
+3.7.1.7 desenhar, revisar e propor melhorias nos fl uxos de processos de trabalho para os 
+serviços de TIC; 
+3.7.1.8 gerenciar, manter, controlar o acesso e ope rar servidor de arquivos, de drivers , de 
+software, dentre outros; 
+3.7.1.9 criar, testar e gerenciar as imagens de per fis de microcomputadores e notebooks;

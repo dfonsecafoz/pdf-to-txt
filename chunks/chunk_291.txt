@@ -1,0 +1,14 @@
+Pages: 85, Start: 0, End: 773
+43 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+3.6.1.8 acompanhar demandas e registrar a entrada/saída de suprimentos;  
+3.6.1.9 realizar pesquisas de mercado de produtos e serviços de TI;  
+3.6.1.10 dar baixa e entrada de almoxarifado de produtos de informática;  
+3.6.1.11 fazer separação e entrega dos suprimentos usados;  
+3.6.1.12 verificar diariamente, nos sistemas, as demandas direcionadas à Seção;  
+3.6.1.13 atualizar os chamados externos assim que o atendimento for feito;  
+3.6.1.14 digitalizar documentação;  
+3.6.1.15 conferir a entrega de Ter mos de Instalação e Desinstalação;  
+3.6.1.16 organizar as chaves dos equipamentos de informática;  
+3.6.1.17 alimentar ou preencher no sistema as informações de todos os dados dos

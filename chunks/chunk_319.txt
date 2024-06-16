@@ -1,0 +1,18 @@
+Pages: 94, Start: 0, End: 744
+52 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+5.1.1 Telefone;  
+5.1.2 Sistema;  
+5.1.3 E -mail;  
+5.1.4 Outros canais ou sistemas podem ser implementados pelo TST durante a 
+execução contratual.  
+5.2 Os chamados demandados para a Central de Atendimento deverão ser atendidos  
+pela Contratada , que deverá ob edecer aos seguintes critérios:  
+5.2.1  A abertura de chamados de suporte técnico ocorrerá por meio dos 
+canais definidos no item anterior;  
+5.2.2 No ato de abertura do chamado, o usuário fornecerá as informações 
+necessárias para o atendimento, de acordo com as rotinas a serem implementadas pelo 
+TST; 
+5.2.3  Os atendimentos  efetuados serão controlados nos sistemas de gestão de 
+atendimento;

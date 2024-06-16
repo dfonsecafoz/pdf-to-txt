@@ -1,0 +1,9 @@
+Pages: 224, Start: 0, End: 215
+Matutino Interno 6.890 39,7%  
+Externo 227 1,3%  
+Vespertino  Interno 9.844 56,7%  
+Externo 395 2,3%  
+CHAMADOS POR TURNO  2014  
+TURNO PUBLICO QUANTIDADE PERCENTUAL 
+Matutino Interno 32.353 47,9%  
+Externo 676 1,0%

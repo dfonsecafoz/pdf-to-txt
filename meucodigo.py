@@ -30,6 +30,9 @@ def main():
     for doc in documents:
         chunk = doc.page_content
         pages = doc.metadata.get('page', 'desconhecida')
+        # Adicionar 1 à página para corrigir a referência
+        if isinstance(pages, int):
+            pages += 1
         chunk_references.append((pages, 0, len(chunk)))  # Aqui, 0 e len(chunk) são placeholders
         chunks.append(chunk)
 

@@ -1,11 +1,21 @@
-Pages: 0, Start: 0, End: 999
-Toleman-Hart. Em sua primeira temporada, Senna pontuou em cinco corridas, fechando o ano com treze
-pontos e a nona  posição na classificação geral dos pilotos. No ano seguinte, ingressou na Lotus-Renault, pela
-qual venceu seis grandes prêmios ao longo de  três temporadas.
-Em 1988, juntou-se ao francês Alain Prost na McLaren-Honda , com o qual teve grande rivalidade. Senna
-venceu oito etapas daquela temporada e sagrou-se campeão mundial pela primeira vez. Após a polêmica final
-de 1989  com Prost que resultou na segunda  colocação do torneio, ele retomou o título em 1990 , vencendo
-nova mente na temporada seguinte, tornando-se o piloto mais jovem a conqui star um tricampeonato na
-Fórmula 1 até então. Em 1993 , Senna foi vice-campeão, vencendo cinco corridas. Transferiu-se para a
-Williams em 1994 , onde disputou apenas três etapas, a última sendo o Grande Prêmio de San Marino, onde se
-acidentou e morreu, no Circuito de Ímola. Ao todo, Senna participou de 161 grandes prêmios na Fórmula 1,
+Pages: 1, Start: 0, End: 976
+•balanço patrimonial comprovando índices
+LG,LCeSGsuperiores a1eCCL superior a
+16,66% dovalor estimado paraacontratação;
+•patrimônio líquido não inferior a10% do
+valor anual estimado dacontratação;
+•comprovação deque1/12dovalor totaldos
+contratos vigentes não ésuperior aoseu
+Patrimônio Líquido.
+*Serão emitidos durante asessão pública.Requisitos específicos: (item 8.5)
+•Atestados oudeclarações decapacidade técnica que
+comprove(m) aprestação deserviços continuados terceirizados
+desuporte técnico asoluções deTIC, prestados emqualquer
+época oulugar, porprazo nãoinferior a12(doze) meses ecom
+umquantitativo de,nomínimo, 50% (cinqüenta porcento) do
+efetivo total inicial previsto neste edital, ouseja, alicitante
+deverá comprovar que jáexecutou ouestá executando a
+contento osserviços comoemprego de,nomínimo, 10(dez)
+técnicos desuporte técnico remoto e,nomínimo, 25(vinte e
+cinco) técnicos desuporte técnico presencial;
+•Cópia deContratos, atestados oudeclarações comprovando

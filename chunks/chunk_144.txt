@@ -1,19 +1,36 @@
-Pages: 16, Start: 0, End: 992
-de-ayrton-senna-vendera-tradicional-bone-azul-05112014).
-esportes.r7.com. R7 Esportes. 5 de novembro de 2014. Consultado
-em 1 de abril de 2018
-120. «Senna ajuda a reforçar imagem» (http://memoria.bn.br/docreader/D
-ocReader.aspx?bib=030015_11&pagfis=33763&pesq=bon%C3%A
-9%20banco). memoria.bn.br. Jornal do Brasil. 26 de maio de 1991.
-Consultado em 8 de fevereiro de 2019
-121. Ricardo Setyon (4 de maio de 1994). «"É duro dizer, mas sua face
-não era humana"» (https://www1.folha.uol.com.br/fsp/1994/5/04/esp
-orte/15.html). Folha de S.Paulo. Consultado em 16 de Outubro de
-2020
-122. Philip, Robert (17 de outubro de 2007). «Spirit of Ayrton Senna is
-Lewis Hamilton's spur» (http://www.telegraph.co.uk/sport/2323502/S
-pirit-of-Ayrton-Senna-is-Lewis-Hamiltons-spur.html). The Daily
-Telegraph. UK. Consultado em 27 de julho de 2010
-123. «Hamilton visits Senna's grave» (http://sports.espn.go.com/rpm/racin
-g/f1/news/story?id=4565293). ESPN. 16 de outubro de 2009.
-Consultado em 27 de julho de 2010
+Pages: 43, Start: 0, End: 923
+profissionais por 
+posto  Quantidade 
+total de 
+profissionais  Carga  
+Horária  
+Semanal  
+1 Gestor  da Central de 
+Serviços de TI  1 1 1 40 horas  
+2 Supervisor  do Suporte 
+Remoto  2 1 2 30 horas  
+3 Técnico de Suporte Remoto  27 1 27 30 horas  
+4 Supervisor  do Suporte 
+Presencial, Suporte 
+especializado e Suporte aos 
+Gabinetes Ministros  2 1 2 30 horas  
+5 Técnico do Suporte 
+Presencial  19 1 19 30 horas  
+6 Técnico de Suporte 
+Presencial - Equipe 
+especializada  de Hardware  2 1 2 30 horas  
+7 Técnico de Suporte 
+Presencial - Equipe 
+especializada de Software  7 1 7 30 horas  
+8 Técnico de Suporte 
+Presencial – Equipe 
+especializada de Telefonia  7 1 7 30 horas  
+9 Técnico de Suporte 
+Presencial – Equipe 
+especializada de Gabinetes  e 
+Ministros (30h)  6 1 6 30 horas  
+10 Técnico de Suporte 
+Presencial – Equipe 
+especializada  de Gabinetes  e 
+Ministros  (36h)  4 1 4 36 horas  
+Total de profissionais  77

@@ -1,0 +1,21 @@
+Pages: 128, Start: 0, End: 995
+1 - DADOS DA CONTRATAÇÃO
+Quadro 1.1 - Discriminação dos Serviços (dados referentes à contratação)
+Nº do Processo Administrativo: Licitação nº: Data: Horário:
+TST-501.753/2018-1
+Local da Prestação dos Serviços: Vigência da Contratação: A Vigência é Prorrogável? Prazo Máximo de Vigência:
+Brasília/DF 12 meses SIM 60 meses
+Quadro 1.2 - Identificação do Serviço
+Objeto da Contratação:
+Prestação de serviços de operação de central de atendimento a usuários (Service
+Desk) de tecnologia da informação e comunicação do Tribunal Superior do Trabalho (TST), de suporte 
+técnico presencial, suporte técnico especializado e suporte técnico aos gabinetes de Ministros, cuja 
+atuação dar-se-á de forma integrada e complementar
+Tipo de Serviço Unidade de Medida: Quantidade Mínima a Contratar:
+Service Desk e Suporte Técnico Postos de Trabalho 77 Postos de Trabalho
+Quadro 1.3 - Detalhamento do Objeto
+Item Posto de TrabalhoTipo de Jornada 
+de TrabalhoPeríodoJornada de 
+Trabalho 
+MensalQuantidade 
+Mínima de

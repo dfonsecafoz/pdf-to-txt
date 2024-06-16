@@ -1,0 +1,19 @@
+Pages: 79, Start: 0, End: 992
+níveis mínimos de serviços requeridos ou a ocorrência de descumprimento de 
+prazos por outros setores da SETIN na resolução de demandas;  
+3.2.1.19 reali zar outras atividades correlatas.  
+ 
+3.2.2  PERFIL PROFISSIONAL MÍNIMO:  
+3.2.2.1 ensino médio completo a ser comprovado por meio de certificado expedido 
+por instituição de ensino reconhecida pelo Ministério da Educação;  
+3.2.2.2 experiência mínima de 2 (dois) anos de atuação em atividades de suporte 
+ou service desk  na área de TI, podendo ser consideradas atividades de supervisão 
+de suporte técnico de TI;  
+3.2.2.3  conhecimento em operação de microcomputadores, com utilização de 
+softwares de automação de escritóri o; 
+3.2.2.4  experiência mínima de 1 (um) ano em supervisão de suporte técnico de 
+TIC ou service desk ; 
+3.2.2.5  certificado de participação em curso de formação ITIL Foundation  
+versão 3 ou superior;  
+3.2.2.6 possuir certificado de participação em curso de form ação HDI SCTL 
+(Support Center Team Lead ).

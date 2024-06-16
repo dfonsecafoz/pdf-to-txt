@@ -1,0 +1,14 @@
+Pages: 75, Start: 0, End: 729
+33 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+1.2.3 SUPORTE TÉCNICO ESPECIALIZADO: realização de atividades de 
+suporte técnico especializado, auxilian do as demais equipes de suporte técnico na 
+solução de incidentes e problemas por meio de fornecimento de conhecimentos 
+específicos e especializados, bem como implantação e operação de serviços 
+específicos, tais como antivírus, videoconferência, transmissõe s de áudio e vídeo das 
+sessões de julgamento, etc. O objetivo principal deste serviço é fornecer habilidades e 
+recursos técnicos especializados para suportar os serviços fornecidos pela SETIN aos 
+usuários de TI C do TST;  
+ 
+1.2.4 SUPORTE TÉCNICO  ESPECIALIZADO  AOS GABINETES E

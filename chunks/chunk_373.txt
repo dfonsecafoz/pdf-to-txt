@@ -1,0 +1,31 @@
+Pages: 115, Start: 0, End: 724
+73 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+ 
+INDICADORES  DO SERVIÇO DE SUPORTE TÉCNICO REMOTO  
+ 
+Código  Nome do Indicador  Fórmula de cálculo  Meta  Parâmetros para 
+aplicação da 
+redução na fatura  Redução na fatura do 
+mês correspondente 
+à prestação dos 
+serviços  
+solucionadas em até 
+3TS; 
+ 90% devem ser 
+solucionadas em até 
+4TS; 
+I-10 Tempo médio de solução 
+das demandas de Suporte 
+Remoto  I= A / B  
+I = indicador em minutos  
+A = somatório dos tempos de solução  
+B = total de chamados resolvidos no 
+Suporte Remoto  
+ 
+Obs.: Percentuais de glosa não 
+cumulativos para este indicador.  O tempo médio de 
+solução deve ser inferior 
+a 1TS >1TS e <= 2TS  1,5%  
+> 2TS  3%

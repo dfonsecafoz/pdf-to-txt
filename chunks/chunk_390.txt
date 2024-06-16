@@ -1,0 +1,19 @@
+Pages: 123, Start: 0, End: 784
+81 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+ANEXO  IV - SALÁRIOS DOS POSTOS DE TRABALHO  
+ 
+1. Não serão aceitos salários inferiores aos especificados na tabela abaixo:  
+ 
+Tabela 23: Salários dos postos de trabalho  
+CATEGORIA  PROFISSIONAL  SALÁRIO  UNITÁRIO  
+Gestor d a Central de Serviços de TIC  R$ 6.709,86  
+Supervisor do Suporte Remoto  R$ 3.540,41  
+Supervisor do Suporte Presencial  R$ 3.540,41  
+Técnico do Suporte Remoto  R$ 2.069,82  
+Técnico do Suporte Presencial  R$ 2.652,94  
+Técnico do Suporte Especializado – Software  R$ 2.652,94  
+Técnico do Suporte Especializado – Hardware  R$ 2.652,94  
+Técnico do Suporte Especializado – Telecom  R$ 2.652,94  
+Técnico do Suporte Espec ializado – Gabinetes e Ministros (30h)  R$ 2.652,94

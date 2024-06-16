@@ -1,18 +1,24 @@
-Pages: 16, Start: 0, End: 954
-03581/206894?pesq=banerj). memoria.bn.br. Revista O Cruzeiro.
-Consultado em 11 de fevereiro de 2019
-117. Marco Antônio Catai (17 de março de 1986). «Além dos carros,
-muitos dólares correm com os pilotos no 'circo' da Fórmula 1» (http
-s://acervo.folha.com.br/leitor.do?numero=9444&keyword=Pisa%2C
-Fundo%2CAyrton&anchor=4145083&origem=busca&pd=33b3b456
-282962a5ef93dd513b3ab07a). Acervo Folha de S.Paulo.
-acervo.folha.com.br. p. 20. Consultado em 21 de junho de 2018
-118. «Jornal do Brasil - 02/05/1994» (http://memoria.bn.br/pdf/030015/per
-030015_1994_00387.pdf) (PDF). memoria.bn.br. Acervo Digital da
-Biblioteca Nacional. 2 de maio de 1994. Consultado em 1 de abril
-de 2018
-119. «Loja virtual com nome de Ayrton Senna venderá tradicional boné
-azul» (https://esportes.r7.com/automobilismo/loja-virtual-com-nome-
-de-ayrton-senna-vendera-tradicional-bone-azul-05112014).
-esportes.r7.com. R7 Esportes. 5 de novembro de 2014. Consultado
-em 1 de abril de 2018
+Pages: 43, Start: 0, End: 769
+1 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+1. DEFINIÇÃO DO OBJETO  
+1.1. Contratação de serviços de operação de central de atendimento a usuários ( Service 
+Desk ) de tecnologia da informação e comunicação do Trib unal Superior do Trabalho 
+(TST),  de suporte técnico presencial, suporte técnico especializado e suporte téc nico aos 
+gabinetes de Ministros, cuja atuação dar -se-á de forma integrada e complementar.  
+CATSER: 22950 . 
+ 
+Tabela 1: Postos de trabalho  
+Grupo 1 – Itens 1 a 10  
+Item  Postos  de Trabalho  Quantidade 
+de postos  Quantidade de 
+profissionais por 
+posto  Quantidade 
+total de 
+profissionais  Carga  
+Horária  
+Semanal  
+1 Gestor  da Central de 
+Serviços de TI  1 1 1 40 horas  
+2 Supervisor  do Suporte

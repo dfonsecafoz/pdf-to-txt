@@ -1,0 +1,53 @@
+Pages: 161, Start: 0, End: 992
+5 - AVISO PRÉVIO TRABALHADO - FIM DE CONTRATO
+Quadro 5.1 - ESTIMATIVA PARA PAGAMENTO DO AVISO PRÉVIO TRABALHADO - FIM DE CONTRATO
+Item Posto de TrabalhoREMUNERAÇÃO do 
+PostoMódulo  4.1
+Encargos 
+Previdenciários e 
+FGTS
+(%)Incidência Módulo  
+4.1
+Encargos 
+Previdenciários e 
+FGTS
+(R$)Custos Indiretos, 
+Lucro e Tributos dos 
+Postos
+(%)Custos Indiretos, 
+Lucro e Tributos dos 
+Postos
+(R$)BASE DE CÁLCULO
+Aviso Prévio 
+Trabalhado 
+(7 dias) ALÍQUOTA
+Aviso Prévio 
+Trabalhado 
+(1 / 30 * 7) **VALOR
+Aviso Prévio 
+Trabalhado 
+(7 dias) 
+POR POSTOQuantidade Total 
+de Profissionais 
+( Postos x 
+Empregados)Valor do Aviso 
+Prévio Trabalhado 
+A PAGAR
+Fim do contrato
+(A) (B)  (C)    (F) (G)   (H) (I)    (J) (K)    (L)
+ = A x B  = (A+C+E) x F  = A + C + E + G  = H x I  = J x K
+Custos= 5,00%
+Lucro= 10,00%
+Tributos= 17,25%
+Custos= 5,00%
+Lucro= 10,00%
+Tributos= 17,25%
+Custos= 5,00%
+Lucro= 10,00%
+Tributos= 17,25%
+Custos= 5,00%
+Lucro= 10,00%
+Tributos= 17,25%
+Custos= 5,00%
+Lucro= 10,00%
+Tributos= 17,25%

@@ -1,0 +1,18 @@
+Pages: 93, Start: 0, End: 744
+51 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+4.10 Para a execução dos serviços, o TST disponibilizará toda a infraestrutura 
+necessária, incluindo:  
+4.10.1 espaço físico específico;  
+4.10.2 equipamentos (microcomputadores, links de comunicação, softwares 
+básicos etc.);  
+4.10.3 inf raestrutura física (mobiliário);  
+4.10.4 ferramentas e materiais;  
+4.10.5 telecomunicações (central telefônica, ramais, aparelhos telefônicos, 
+cabeamento etc.);  
+4.10.6 softwares (Sistema para registro, acompanhamento e encerramento dos 
+incidentes);  
+4.10.7 suprimentos.  
+4.11 A Contratada deverá utilizar as ferramentas do TST, que compõem os sistemas de 
+gestão de atendimento, p ara apoio à Central de Serviços;

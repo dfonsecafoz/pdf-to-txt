@@ -1,0 +1,25 @@
+Pages: 140, Start: 0, End: 958
+Obs.:  Só preencha se o profissional tiver direito. Salário Base -                   
+EAdicional de motorização
+Obs.:  Só preencha se o profissional tiver direito. Salário Base -                   
+FAdicional por tempo de serviço
+Obs.:  Só preencha se o profissional tiver direito. Salário Base -                   
+Outros (especificar abaixo)
+Subtotal 1.1: Salário Base + Adicionais 3.540,41          
+1 Componente da RemuneraçãoQuant. Horas 
+MensaisAlíquota
+(%)Valor
+(R$)
+HAdicional noturno
+Obs.:  Só preencha se o profissional tiver direito.
+IHora noturna adicional (ajuste p/ 1h = 52min30seg)
+Obs.:  Só preencha se o profissional tiver direito.0,00 h/mês
+Subtotal 1.2: Adicional Noturno -                   
+1 Componente da RemuneraçãoQuant. Horas 
+MensaisAlíquota
+(%)Valor
+(R$)
+JAdicional de hora extra
+Obs.:  Só preencha se o profissional tiver direito.
+KIntervalo intrajornada (1 h x dia trabalhado)
+Obs.:  Só preencha se o profissional tiver direito.

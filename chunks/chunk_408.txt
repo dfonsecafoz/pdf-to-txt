@@ -1,0 +1,24 @@
+Pages: 129, Start: 0, End: 951
+2 - DADOS DA PROPONENTE
+Quadro 2.1 - Dados da Proponente
+Razão Social: CNPJ:
+Endereço da Matriz (digite o endereço no formato Logradouro, nº, Complemento - Bairro ):
+Município: UF: CEP:
+DDD: Telefone: E-mail
+Endereço do Escritório no Distrito Federal (digite o endereço no formato Logradouro, nº, Complemento - Bairro ):
+Município: UF: CEP:
+DF
+DDD: Telefone: E-mail
+61
+Quadro 2.2 - Regime de Tributação da Proponente
+Item Alíquota (%)
+Lucro Real A Tributos Federais
+A.1 PIS Faturamento 1,65%
+Lucro Presumido A.2 COFINS Faturamento 7,60%
+A.3 INSS  (Lei nº 12.546/2011) Faturamento 3,00%
+Entidade Sem Fins Lucrativos Subtotal Tributos Federais 12,25%
+B Tributos Distritais
+Optante pelo Simples Nacional B.1 ISS (ISSQN) Faturamento 5,00%
+Subtotal Tributos Distritais 5,00%
+Desoneração da folha (Art. 7º, Lei 12.546/2011) TOTAL 17,25%
+Obs. :Asempresas optantes pelo Simples Nacional poderão participar deste pregão eterão direito aotratamento diferenciado

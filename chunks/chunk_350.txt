@@ -1,0 +1,18 @@
+Pages: 105, Start: 0, End: 970
+de duas empresas, a SETIN irá convidar a empresa vencedora do certame, em 
+momento anterior ao início da nova operaçã o, para repasse dos artigos constantes da 
+Base de Conhecimento e videoaulas referentes aos atendimentos de suporte técnico 
+de TI, de maneira que a Contratada possa capacitar seu corpo técnico. 
+Adicionalmente, em acordo com a Contratada, as equipes do TST d isponibilizarão 
+orientações e treinamentos básicos em workshops pertinentes aos serviços de suporte 
+técnico no Tribunal.  
+ 
+9. TRANSIÇÃO CONTRATUAL OU ENCERRAMENTO DO CONTRATO  
+9.1. Entrega de produtos finais : 
+9.1.1.  No último mês de execução contratual , a Contratada deverá  encaminhar, em 
+formato eletrônico, os seguintes itens:  
+a) lista de todos os seus funcionários, contendo o perfil e tipo de acesso aos 
+recursos de TIC;  
+b) relatório mensal do serviço prestado;  
+c) relatório  de desempenho das atividades, conforme descrito no item “8.2 
+transferência de Conhecimentos”;

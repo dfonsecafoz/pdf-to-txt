@@ -1,0 +1,23 @@
+Pages: 240, Start: 0, End: 997
+70 
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho 
+K:\2018\Instrumentos Contratuais\Contratos\Minuta de  contratos\2018minutacontratoPE089 - serviços de se rvice desk.docx gpm 
+ 
+INDICADORES DO SERVIÇO DE SUPORTE TÉCNICO REMOTO 
+ 
+Código  Nome do Indicador Fórmula de cálculo Meta Parâmetros para 
+aplicação da 
+redução na fatura Redução na fatura do 
+mês correspondente à 
+prestação dos 
+serviços 
+Obs.: Percentuais de glosa não cumulativos para este indicador. 
+I-07 Índice de demandas de 
+prioridade alta  solucionadas 
+no tempo determinado I=A / B * 100  
+I=indicador em percentual A= total de solicitações de prioridade alta solucionadas pelo suporte remoto em tempo igual ou inferior ao tempo determinado B=total de solicitações de prioridade alta solucionadas pelo suporte remoto  Obs.: Percentuais de glosa não cumulativos para este indicador. 100% das demandas de 
+prioridade alta  devem 
+ser solucionadas em até 
+1TS  <100% e >=90% 0,5% 
+>90% e <=80%  1,5% 
+<80%  3%

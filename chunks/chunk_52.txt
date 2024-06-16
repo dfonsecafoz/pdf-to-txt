@@ -1,9 +1,18 @@
-Pages: 5, Start: 0, End: 930
-V10 para 1993 . Com a recusa da Renault, a McLaren foi obrigada a pegar os motores Ford V8 como um cliente comum.
-Dessa forma, a McLaren recebeu versões de motores mais velhas do que os clientes preferenciais da Ford, como a
-Benetton, e tentou compensar essa deficiência de potência com mais tecnologia e sofisticação, inclusive um sistema efetivo
-de suspensão ativa. Dennis finalmente persuadiu Senna a voltar para a McLaren, mas o brasileiro concordou somente em
-assinar para a primeira corrida da temporada, na África do Sul, onde ele iria verificar se os carros da McLaren eram
-competitivos o bastante para lhe proporcionar uma boa temporada. Senna concluiu que esse novo carro tinha um
-surpreendente potencial, mas ainda estava abaixo da potência, e não seria páreo para a Williams-Renault de Prost. Senna
-decidiu não assinar por uma temporada e sim por cada corrida a ser disputada. Eventualmente ele pode ria permanecer por
+Pages: 15, Start: 0, End: 942
+Geral (LG), Liquidez Corrente (LC) e Solvência Gera l (SG) superiores a 1 
+(um), bem como Capital Circulante Líquido (CCL) de,  no mínimo, 16,66% 
+(dezesseis inteiros e sessenta e seis centésimos po r cento) do valor estimado 
+para a contratação, constante do item 1.17. 
+8.4.2.1. Fórmulas: 
+/g2168/g2159 =/g2157/g2159 
+/g2172/g2159  /g2168/g2163 =/uni0009/g2157/g2159 +/g2157/g2174/g2168/g2172 
+/g2172/g2159 +/g2172/g2170 /g2159 /g2175/g2163 =/g2157/g2159 +/g2157/g2170/g2159 
+/g2172/g2159 +/g2172/g2170/g2159  /g2159/g2159/g2168 =/g2157/g2159 −/g2172/g2159  
+ 
+Legenda: AC (Ativo Circulante); ANC (Ativo Não Circ ulante); ARLP (Ativo 
+Realizável à Longo Prazo); PC (Passivo Circulante);  PNC (Passivo Não 
+Circulante). 
+8.4.2.2. Serão considerados aceitos, na forma da le i, balanço patrimonial e 
+demonstrações contábeis assim apresentados: 
+8.4.2.3. Publicados em Diário Oficial ou; 
+8.4.2.4. Publicados em jornal de grande circulação ou;

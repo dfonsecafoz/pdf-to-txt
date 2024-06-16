@@ -1,0 +1,21 @@
+Pages: 137, Start: 0, End: 997
+Subtotal 1.3: Adicional de hora extra + Intervalo intrajornada -                   
+TOTAL MÓDULO 1 (Remuneração) 2.069,82       
+Módulo 2: BENEFÍCIOS MENSAIS E DIÁRIOS
+Obs.:  Durante a execução contratual deverão ser apresentados MENSALMENTE os comprovantes com os 
+benefícios cotados neste módulo.
+2 Benefício Custo Diário (R$) ReferênciaValor
+(R$)
+A.1Vale-transporte 10,00 21 dias 210,00             
+A.2Dedução legal de custo com vale-transporte n/a 6% (124,18)            
+ACusto mensal com vale-transporte 85,82               
+B.1Auxílio alimentação 25,00 21 dias 525,00             
+B.2Dedução legal de custo com auxílio alimentação
+Obs.:  Preencha apenas se houver previsão normativa para este 
+desconto.n/a -                   
+BCusto mensal com auxílio alimentação 525,00             
+CAuxílio café da manhã 21 dias -                   
+DAssistência médica e familiar n/a 1 mês 109,55             
+DAuxílio creche n/a 1 mês
+FSeguro de vida n/a 1 mês
+GAuxílio invalidez e funeral n/a 1 mês

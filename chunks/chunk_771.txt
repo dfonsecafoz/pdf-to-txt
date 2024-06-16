@@ -1,0 +1,46 @@
+Pages: 234, Start: 0, End: 965
+(TS) em minutos 
+Suporte Técnico 
+Remoto 15 
+Suporte Técnico 
+Presencial 70 
+ 
+1.3. Definição das prioridades utilizadas nos processos d e gerenciamento de serviços de TIC do 
+TST: 
+Tabela 14: Prioridades de atendimento 
+PRIORIDADE 
+TIPO DESCRIÇÃO EXEMPLOS TEMPO 
+MÁXIMO 
+PARA 
+SOLUÇÃO 
+NA 
+EQUIPE DE 
+SUPORTE 
+REMOTO TEMPO 
+MÁXIMO 
+PARA 
+SOLUÇÃO 
+NAS EQUIPES 
+DE 
+SUPORTES 
+PRESENCIAIS 
+Alta Chamados derivados de 
+incidentes com alta urgência 
+para solução e alto impacto 
+nos serviços de negócio do 
+TST. Indisponibilidade em serviços 
+críticos. 
+Demandas de Ministros para 
+atendimento no TST.  
+Estimativa de 4% das demandas. 1TS 1TS 
+Média Chamados derivados de 
+incidentes com urgência 
+relativa e que causam impacto 
+direto aos serviços de negócio 
+do TST. Devem seguir critérios 
+de atendimentos diferenciados. Degradação no desempenho de 
+serviços críticos.  
+Falha em serviços que afetem 
+uma ou mais unidades 
+organizacionais.  
+Demandas de usuários com

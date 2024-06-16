@@ -1,0 +1,18 @@
+Pages: 94, Start: 0, End: 974
+necessárias para o atendimento, de acordo com as rotinas a serem implementadas pelo 
+TST; 
+5.2.3  Os atendimentos  efetuados serão controlados nos sistemas de gestão de 
+atendimento;  
+5.2.4  O TST terá acesso aos sistemas de gestão de atendimento para o 
+acompanhamento das providências em andamento e do te mpo decorrido ; 
+5.2. 5  Antes do encerramento de cada chamado, a Contratada deverá consultar 
+o solicitante do atendimento para se certificar que o problema foi solucionado;  
+5.2.6 Nenhum chamado poderá ser fechado sem anuência do TST, do usuário 
+solicitante ou s em que o problema tenha sido solucionado;  
+5.2.7  O chamado que for fechado sem o atendimento dos requisitos 
+estabelecidos na alínea anterior será reaberto e os prazos serão contados a partir da 
+abertura original do chamado, inclusive para efeito de aplicaçã o das sanções previstas.  
+ 
+6. DA VOLUMETRIA E AMBIENTE COMPUTACIONAL  
+ 
+6.1. Quanti tativos da central nacional de atendimento (CNA):

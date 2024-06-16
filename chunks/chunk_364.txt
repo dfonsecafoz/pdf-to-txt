@@ -1,0 +1,24 @@
+Pages: 110, Start: 0, End: 742
+cumulativos para este indicador.  No máximo 4% das 
+ligações recebidas 
+podem ser abandonadas 
+pelo usuário. O 
+abandono é considerado 
+somente após 30 
+segundos de f ila >4% e <=7%  1,5%  
+>7% 3% 
+I-02 Tempo médio na fila de 
+espera para atendimento 
+telefônico  I = A / B  
+I = indicador em segundos  
+A = somatório dos tempos de espera de 
+todas as chamadas telefônicas recebidas  
+B = total de chamadas telefônicas 
+recebidas  
+ 
+Obs.: Percentuais de glosa não 
+cumulativos para este indicador.  O tempo médio na fila 
+de espera deve ser 
+inferior a 30 segundos  > 30 segundos e 
+<= 60 segundos  1,5%  
+> 60 segundos  3% Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E

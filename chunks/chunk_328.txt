@@ -1,0 +1,25 @@
+Pages: 97, Start: 0, End: 993
+segundos de espera):  
+ 
+Tabela 8: Ligações abandonadas  
+Mês  2013  2014  2015  2016  2017  
+Qtd.  % Qtd.  % Qtd.  % Qtd.  % Qtd.  % 
+Janeiro   - 502 10,83%  0 0,00%  68 2,05%  23 0,85%  
+Fevereiro   - 130 2,07%  121 2,00%  184 3,59%  51 1,07%  
+Março   -  122 1,96%  30 0,63%  68 1,10%  169 2,63%  
+Abril   - 156 2,55%  65 1,26%  40 0,67%  42 0,93%  
+Maio   - 181 3,26%  181 3,06%  23 0,45%  240 3,87%  
+Junho   - 227 3,22%  18 2,24%  69 1,40%  205 3,94%  
+Julho   - 416 5,76%  46 1,35%  17 0,44%  28 1,05%  
+Agosto   - 109 1,76%  124 2,22%  49 0,80%  255 4,76%  
+Setembro   - 98 1,74%  61 1,15%  87 1,50%  41 1,01%  
+Outubro   - 42 0,71%  188 3,59%  60 1,17%  79 1,94%  
+Novembro  12 0,86%  34 0,65%  67 1,52%  62 1,17%  117 2,95%  
+Dezembro     4 0,11%  101 2,45%  12 0,39%  221 5,69%  
+Média  Mensal  12 0,86%  172,6  2,89%  83,5  1,79%  61,6  1,23%  122,6  2,56%  
+ 
+ 
+ 
+6.5. Quantitativos gerais:  
+ 
+6.5.1.  A quantidade aproximada de usuários internos que serão atendidos pelo suporte

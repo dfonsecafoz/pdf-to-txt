@@ -1,0 +1,10 @@
+Pages: 220, Start: 0, End: 642
+5.2. 5 Antes do encerramento de cada chamado, a Contr atada deverá consultar o 
+solicitante do atendimento para se certificar que o  problema foi solucionado; 
+5.2.6 Nenhum chamado poderá ser fechado sem anuência  do TST, do usuário 
+solicitante ou sem que o problema tenha sido soluci onado; 
+5.2.7 O chamado que for fechado sem o atendimento d os requisitos estabelecidos 
+na alínea anterior será reaberto e os prazos serão contados a partir da abertura original do 
+chamado, inclusive para efeito de aplicação das san ções previstas. 
+6. DA VOLUMETRIA E AMBIENTE COMPUTACIONAL 
+6.1. Quantitativos da central nacional de atendimento (CNA) :

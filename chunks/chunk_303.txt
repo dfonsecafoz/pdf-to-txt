@@ -1,0 +1,17 @@
+Pages: 89, Start: 0, End: 734
+47 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+3.7.2.2 experiência mínima de 1 (um) ano de atuação em atividade de suport e 
+técnico presencial;  
+3.7.2.3 certificado de conclusão de curso em Microsoft  Office  2010, ou superior, 
+de no mínimo 20 horas;  
+3.7.2.5 certificação Microsoft Certified Technology Specialist : Windows  7 (ou 
+superior), Configuration . 
+ 
+3.8 TÉCNICOS DO SUPORTE ESPECIALIZADO – EQUIPE DE TELECOM  
+ 3.8.1 RESPONSABILIDADES DO SUPORTE ESPECIALIZADO – EQUIPE DE 
+TELECOM  
+3.8.1.1 prestar serviços de suporte presencial, nas dependências do TST, para os 
+atendimentos não resolvidos pelo suporte técnico remoto ou que, pelas 
+características, exijam a presença do técnico;

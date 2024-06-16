@@ -1,0 +1,15 @@
+Pages: 87, Start: 0, End: 739
+45 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+3.7.1.10 gerenciar, manter e operar servidores de banco de dados relacionados aos 
+serviços de inventário ( LANDesk ), de distribuição de atualizações e hotfixes  
+(WSUS) e antivírus ( McAfee );  
+3.7.1.11 implementar, testar, distribuir e manter pacotes de instalação de 
+aplicativos por meio do LANDesk ;  
+3.7.1.12 implementar e manter políticas dos serviços relacionados à segurança 
+(cliente antivírus, ePO e NAC);  
+3.7.1.13 administrar biblioteca de ap licativos proprietários (instalação, ativação e 
+controle de licenças);  
+3.7.1.14 criar, manter, testar e aplicar scripts  de configuração de estações (chaves 
+de registros, batches , vbscripts );

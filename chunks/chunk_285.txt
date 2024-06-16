@@ -1,0 +1,17 @@
+Pages: 83, Start: 0, End: 756
+41 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+3.4.2.4  possuir experiência mínima de 1 (um) ano em atividade de supervisão 
+de suporte técnico presencial;  
+3.4.2.5  possuir certificado de participação em curso de formação ITIL 
+Foundation  versão 3 ou superior;  
+3.4.2.6 possuir certificado de participação em curso de formação HDI SCTL 
+(Support Center Team Lead ). 
+ 
+3.5 TÉCNICOS DO SUPORTE PRESENCIAL  
+3.5.1  RESPONSABILIDADES:  
+3.5.1.1 prestar serviços de suporte presencial, nas dependên cias do TST, para os 
+atendimentos não resolvidos pelo suporte técnico remoto ou que, pelas 
+características, exijam a presença do técnico;  
+3.5.1.2 solucionar problemas de hardware, sistema operacional e demais softwares

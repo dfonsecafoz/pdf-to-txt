@@ -1,0 +1,15 @@
+Pages: 101, Start: 0, End: 947
+7. DO DIMENSIONAMENTO DAS EQUIPES E HORÁRIO DE PRESTAÇÃO DOS 
+SERVIÇOS  
+ 
+7.1. O quantitativo mínimo de prestadores é resultante do esforço necessário para a 
+execução das atividades, por especialização e segregação de atividades;  
+7.2. No modelo de referência ITIL, a prestação de serviços de TIC está distribuída em 
+diversos processos, sendo que cada processo possui atividades e papéis bem definidos 
+que se refletem na atuação de cada prestador de serviço, supervisores e gerentes.  
+7.3. Os processos ITIL da SETIN nos quais as equipes de suporte deverão trabalhar são: 
+Gestão de Incidentes , Cumprimento de Requi sição, Gestão de Problemas, Gestão de 
+Níveis de Serviços e Gestão de Conhecimento.  
+7.3.1.  No que diz respeito à Gestão de Incidentes e Cumprimento de Requisição, os 
+técnicos deverão entender as diferenças entre incidente e requisição, as devidas 
+prioridades de ca da caso, as necessidades relacionadas ao diagnóstico e

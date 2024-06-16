@@ -1,0 +1,25 @@
+Pages: 142, Start: 0, End: 963
+4.2Submódulo 4.2 n/a n/a 455,47             
+4.3Submódulo 4.3 n/a n/a 23,36               
+4.4Submódulo 4.4 n/a n/a 16,74               
+4.5Submódulo 4.5 n/a n/a 423,07             
+Outros (especificar abaixo)
+TOTAL MÓDULO 4 1.478,00       
+Módulo 5: CUSTOS INDIRETOS, TRIBUTOS E LUCRO
+5 Custos Indiretos, Tributos e Lucro Base de CálculoAlíquota
+(%)Valor
+(R$)
+ASomatório dos Módulos 1, 2, 3 e 4 n/a n/a 5.770,94          
+BCustos indiretos Item 5-A 5,00% 288,54             
+Subtotal 5.1 6.059,48          
+CLucro Subtotal 5.1 10,00% 605,94             
+Subtotal 5.2 6.665,42          
+DTributos
+(Base de cálculo e alíquota transportadas do Quadro 2.2) Faturamento 17,25% 1.389,46          
+TOTAL MÓDULO 5 2.283,94       
+QUADRO-RESUMO DO CUSTO POR EMPREGADO
+Módulo 4 - Encargos Sociais e TrabalhistasValor
+(R$)
+AMódulo 1: COMPOSIÇÃO DA REMUNERAÇÃO 3.540,41          
+BMódulo 2: BENEFÍCIOS MENSAIS E DIÁRIOS 634,55             
+CMódulo 3: INSUMOS DIVERSOS 117,98

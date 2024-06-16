@@ -1,3 +1,24 @@
-Pages: 1, Start: 0, End: 306
-1m00s5. Também realizou testes para a McLaren, onde  Senna impressionou o chefe da equipe Ron Dennis. Mesmo com a concorrência de outros dois pilotos
-convidados para os testes, o inglês Martin Brundle e o alemão Stefan Bellof, Senna foi o mais rápido dos três em Silverstone. A outra equipe pela qual Senna
+Pages: 5, Start: 0, End: 878
+1.17. O valor anual estimado para a contratação é d e R$ 5.783.253,98, conforme quadro 
+abaixo: 
+Grupo 1 Valor mensal de um 
+posto (R$) Quantidade de 
+postos de trabalho  Valor mensal do total 
+de postos (R$) 
+1 14.325,65 1 14.325,65 
+2 8.054,88 2 16.109,76 
+3 5.265,08 27 142.157,16 
+4 8.054,88 2 16.109,76 
+5 6.369,95 19 121.029,05 
+6 6.369,95 2 12.739,90 
+7 6.369,95 7 44.589,65 
+8 6.369,95 7 44.589,65 
+9 6.369,95 6 38.219,70 
+10 7.919,09 4 31.676,36 
+Valor mensal estimado dos postos de trabalho:  481.546,64 
+Valor anual estimado dos postos de trabalho:  5.778.559,68 
+Custo anual estimado com feriados (Quadro 6.1 da pl anilha de 
+formação de custos):  4.694,30 (*) 
+Valor total estimado para o contrato:  5.783.253,98 
+Custo anual estimado para pagamento do aviso prévio  trabalhado – 
+fim de contrato (Quadro 5.1 da planilha de formação  de custos):  74.438,45 (*) (**)

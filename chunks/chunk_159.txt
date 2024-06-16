@@ -1,18 +1,16 @@
-Pages: 17, Start: 0, End: 982
-2017. Consultado em 21 de fevereiro de 2018
-171. Stephen Dobie (6 de março de 2018). «The Senna GTR is the
-fastest McLaren outside of F1» (https://www.topgear.com/car-news/g
-eneva-motor-show/senna-gtr-fastest-mclaren-outside-f1).
-topgear.com. Top Gear. Consultado em 21 de março de 2018
-172. «Senna Day Festival recebe 15 mil pessoas em Interlagos em
-homenagem histórica a Ayrton Senna» (https://f1mania.lance.com.b
-r/formula-1/senna-day-festival-recebe-15-mil-pessoas-em-interlagos
--em-homenagem-historica-a-ayrton-senna/). f1mania.lance.com.br.
-F1 Mania. Consultado em 18 de maio de 2019
-173. «1 Maggio 2019 – Ayrton Day» (http://www.autodromoimola.it/ayrton
--day/). autodromoimola.it. Autodromo Imola. Consultado em 18 de
-maio de 2019. Cópia arquivada em 17 de maio de 2019 (https://web.
-archive.org/web/20190517075854/http://www.autodromoimola.it/ayrt
-on-day/)
-174. «Ayrton Mágico» (https://www.ayrtonmagico.it/). ayrtonmagico.it.
-Ayrton Magico. Consultado em 18 de maio de 2019
+Pages: 47, Start: 0, End: 976
+manutenção da dispo nibilidade e estabilidade dos serviços de TI C e do funcionamento 
+do Tribunal.  
+ 
+3.2. O suporte de TIC no Tribunal envolve , fundamentalmente, serviços de atendimento 
+remoto ( Service Desk ), serviços prestados pela equipe técnica de campo e serviços 
+especializados, todos providos por meio de Central de Atendimento da Secretaria de 
+Tecnologia da Informação e Comunicação (SETIN). Essa atividade requer equipes 
+especializadas e  dedicadas exclus ivamente ao atendimento tempestivo das demandas, de 
+forma a  assegurar os níveis de comunicação e qualidade de serviços exigidos. 
+Considerando a diretriz do constante no decreto -lei 200/67  - para que o órgão recorra, 
+sempre que possível, à execução indireta  de atividades operacionais, para se concentrar 
+em tarefas de gestão – optou -se por contratar os serviços de empresa desse ramo de 
+negócio.  
+ 
+3.3. A presente contratação tem por objetivo garantir a continuidade dos serviços  prestados

@@ -1,18 +1,15 @@
-Pages: 17, Start: 0, End: 964
-eb/20150316044647/http://www.sbt.com.br/omaiorbrasileiro/candida
-tos/?nc=2). sbt.com.br. Site Oficial do SBT. Consultado em 1 de
-fevereiro de 2017
-156. «Lançamento oficial do enredo» (https://web.archive.org/web/20160
-306004705/http://unidosdatijuca.com.br/pt/noticias/-lancamento-ofici
-al-do-enredo-da-unidos-da-tijuca-reune-viviane-senna-e-celebridad
-es). unidosdatijuca.com.br. Unidos da Tijuca. Consultado em 22 de
-maio de 2017
-157. «Mais um título para Ayrton Senna: Unidos da Tijuca vence
-Carnaval do Rio» (http://www.ayrtonsenna.com.br/noticias/mais-um-
-titulo-para-ayrton-senna-unidos-da-tijuca-vence-carnaval-do-rio/).
-ayrtonsenna.com.br. Site oficial Ayrton Senna. Consultado em 22 de
-maio de 2017
-158. «Ayrton Senna completaria 54 anos em 2014; Doodle do Google
-celebra» (http://www.techtudo.com.br/noticias/noticia/2014/03/ayrton
--senna-completaria-54-anos-em-2014-doodle-do-google-celebra.ht
-ml). 21 de março de 2014. Consultado em 21 de março de 2014
+Pages: 46, Start: 0, End: 743
+4 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+ 
+2.9.3.  No período de 20 de dezembro a 18 de janeiro do ano subsequente , 
+mediante comunicação prévia  da equipe de fiscalização , poderá haver 
+redução de até 50% da quantidade total de postos  estabelecida no objeto 
+deste Termo de Referência, período em que o valor da fatura será reduzido de 
+modo a retratar somente os postos devidamente implementados.  
+ 
+2.9.4.  No período de 2 a 31 de julho,  mediante comunicação prévia, poderá haver 
+redução de até 50% d a quantidade total de postos  estabelecida no objeto 
+deste Termo de Referência, período em que o valor da fatura será reduzido de 
+modo a retratar somente os postos devidamente implementados .

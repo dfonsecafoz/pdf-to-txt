@@ -1,0 +1,19 @@
+Pages: 90, Start: 0, End: 979
+EQUIPE DE TELECOM  
+3.8.2.1 ensino médio completo a ser comprovado por meio de certificado expedido 
+por instituição de ensino reconhecida pelo Ministério da Educação;  
+3.8.2. 2 experiência mínima de 1 (um) ano de atuação em atividade de suporte 
+técnico em redes ou microinformática;  
+3.8.2.3 certificado de participação em curso de Instalação e Reparo de Linhas 
+Telefônicas, curso básico de redes ou certificação Microsoft Certified  Technology 
+Specialist: Window s 7 (ou superior), Configuration ; 
+ 
+ 
+3.9 TÉCNICOS DO SUPORTE ESPECIALIZADO – EQUIPE DE GABINETES E 
+MINISTROS  
+ 3.9.1 RESPONSABILIDADES DO TÉCNICO DO SUPORTE ESPECIALIZADO – 
+EQUIPE DE GABINETES DE MINISTROS  
+3.9.1.1 prestar suport e técnico especializado aos Ministros do TST;  
+3.9.1.2 prestar suporte técnico aos sistemas jurídicos utilizados pelos Gabinetes e 
+Unidades Judiciárias: SAG, SIJ, e -SIJ, Gabinete Eletrônico, Plenário Eletrônico, 
+SAD, SPJ, PJe e demais sistemas utilizados n o Tribunal;

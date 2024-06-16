@@ -1,0 +1,13 @@
+Pages: 120, Start: 0, End: 953
+ligações em espera pode ultrapassar os limites estabelecidos em decorrência de um 
+fator que foge ao domínio da Contratada. Portanto, nos dias que houver quantidade de 
+ligações acima do normal, tais dias não ser ão contabilizados na apuração dos 
+indicadores de telefonia afetados (I -01, I -02 e I -04) para efeito de redução na fatura. 
+Por acima do normal, considera -se um volume de 50% acima da média diária dos 
+últimos 12 meses. Nos demais casos, será facultada a apresentaç ão de justificativa 
+para o não atingimento dos indicadores;  
+1.10. Da mesma forma, nos dias que houver um registro de demandas por e -mail ou 
+diretamente na ferramenta de ITSM acima do normal, tais dias não serão 
+contabilizados na apuração do indicador I -05 para e feito de redução na fatura. Por 
+acima do normal, baseando -se nas ocorrências da última contratação, considera -se um 
+volume de 50% acima da média diária dos últimos 12 meses. Nos demais casos, será

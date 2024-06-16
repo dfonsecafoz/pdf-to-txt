@@ -1,10 +1,16 @@
-Pages: 3, Start: 0, End: 944
-a Honda  o fornecimento de motores V6 Turbo pa ra 1988.[26]
-Em 1988 , as McLaren-Honda  ostentavam os números 11 e 12, desta vez com a dupla Alain Prost e Ayrton Senna. Um dos
-principais momentos da temporada de 1988 aconteceu em Mônaco. Durante os treinos oficiais, Ayrton fez a pole position
-com uma vantagem de 1:427 para Alain Prost. Nos treinos, segundo o brasileiro, ele estava guiando em outra dimensão e,
-de certa forma, não tinha uma total consciência do que estava acontecendo. Na corrida, Ayrton liderava com uma margem
-de quase 1 minuto para o segundo colocado, o francês Alain Prost. No entanto, o tricampeão mundial acabou batendo na
-66ª volta, dando a  vitória ao adversário francês.[49][50]
-No GP do Japão, Senna, que largava na pole, não conseguiu largar e caiu para 17ª posição. Entretanto, já nas primeiras
-voltas, Ayrton ultrapassou oito adversários. Na 28ª volta, Senna ultrapassou Prost e terminou ao final da prova com 13
+Pages: 10, Start: 0, End: 920
+6.6. Na fase de lances, a disputa será por item e a  classificação final será pelo valor global 
+do grupo. 
+6.6.1. Não se recomenda concentrar o esforço de red ução em apenas um dos itens 
+que integram o grupo, pois a incompatibilidade de u m deles com o respectivo 
+valor estimado pode levar à desclassificação da res pectiva empresa 
+proponente, nos termos do item 7.4.1. 
+6.7. Na fase competitiva do pregão, o intervalo ent re os lances enviados pelo mesmo 
+licitante não poderá ser inferior a 20 segundos, co nforme IN SLTI/MPOG n.º 03, de 
+16/12/2011. 
+6.7.1. Os lances enviados em desacordo com o item a nterior serão descartados 
+automaticamente pelo sistema. 
+6.8. A cada lance ofertado por item, o Sistema atua lizará automaticamente o valor global 
+do grupo. 
+6.8.1. A empresa que ofertar o menor valor global d o grupo será classificada em 
+primeiro lugar pelo critério de Julgamento por Preç o Global – Lote.

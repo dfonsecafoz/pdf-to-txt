@@ -1,0 +1,29 @@
+Pages: 110, Start: 0, End: 766
+68 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+Tabela 18: Índices  do suporte técnico remoto  
+ 
+INDICADORES  DO SERVIÇO DE SUPORTE TÉCNICO REMOTO  
+ 
+Código  Nome do Indicador  Fórmula de cálculo  Meta  Parâmetros para 
+aplicação da 
+redução na fatura  Redução na fatura do 
+mês correspondente 
+à prestação dos 
+serviços  
+I-01 Índice de abandono  I = A / B * 100  
+I = indicador em percentual  
+A = total de chamadas abandonadas  em 
+tempo superior a 30 segundos  
+B = total de chamadas recebidas  
+ 
+Obs.: Percentuais de glosa não 
+cumulativos para este indicador.  No máximo 4% das 
+ligações recebidas 
+podem ser abandonadas 
+pelo usuário. O 
+abandono é considerado 
+somente após 30 
+segundos de f ila >4% e <=7%  1,5%  
+>7% 3%

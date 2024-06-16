@@ -1,0 +1,24 @@
+Pages: 132, Start: 0, End: 908
+Submódulo 4.2: 13º SALÁRIO E ADICIONAL DE FÉRIAS
+4.2 13º Salário e Adicional de Férias Base de CálculoAlíquota
+(%)Valor
+(R$)
+A13º Salário Módulo 1 8,33% 558,93             
+BAdicional de férias Módulo 1 2,78% 186,53             
+Subtotal 4.2.1 745,46             
+CIncidência do Submódulo 4.1 Subtotal 4.2.1 15,80% 117,78             
+TOTAL SUBMÓDULO 4.2 863,24           
+Submódulo 4.3: AFASTAMENTO MATERNIDADE
+4.3 Afastamento Maternidade Base de CálculoAlíquota
+(%)Valor
+(R$)
+AAfastamento maternidade Módulo 1 0,57% 38,24               
+Subtotal 4.3.1 38,24               
+BIncidência do Submódulo 4.1 Subtotal 4.3.1 15,80% 6,04                 
+TOTAL SUBMÓDULO 4.3 44,28             
+Submódulo 4.4: PROVISÃO PARA RESCISÃO
+4.4 Provisão Base de CálculoAlíquota
+(%)Valor
+(R$)
+AAviso prévio indenizado Módulo 1 0,42% 28,18               
+BIncidência do FGTS sobre aviso prévio indenizado Item 4.4-A 8,00% 2,25

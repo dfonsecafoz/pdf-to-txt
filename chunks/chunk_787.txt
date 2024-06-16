@@ -1,0 +1,23 @@
+Pages: 244, Start: 0, End: 983
+74 
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho 
+K:\2018\Instrumentos Contratuais\Contratos\Minuta de  contratos\2018minutacontratoPE089 - serviços de se rvice desk.docx gpm 
+Tabela 16: Índices do suporte presencial e do suporte p resencial especializado 
+ 
+INDICADORES DO SUPORTE PRESENCIAL E SUPORTE PRESENCIAL  ESPECIALIZADO 
+ 
+Código Nome do Indicador Descrição Meta Limites de 
+referência Redução na fatura do 
+mês correspondente à 
+prestação dos 
+serviços 
+I-11 Índice de demandas de 
+prioridade alta  solucionadas no 
+tempo determinado I=A  / B * 100  
+I=indicador em percentual A= total de solicitações de prioridade alta solucionadas pelo suporte presencial em tempo igual ou inferior ao tempo determinado B=total de solicitações de prioridade alta solucionadas  Obs.: Percentuais de glosa não cumulativos para este indicador. 100% das demandas 
+de prioridade alta  
+devem ser 
+solucionadas em até 
+1TS  <100% e >=90% 0,5% 
+>90 e <=80%  1,5% 
+<80%  3%

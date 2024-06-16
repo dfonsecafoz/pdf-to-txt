@@ -1,0 +1,14 @@
+Pages: 242, Start: 0, End: 340
+prioridade baixa  devem 
+ser atendidas em até 
+5TS observando as 
+seguintes metas parciais:
+ 
+• 60% devem ser solucionadas em até 1TS; 
+• 70% devem ser solucionadas em até 2TS; 
+• 80% devem ser solucionadas em até 3TS ; < 60% em até 1TS  0,5% 
+< 70% em até 2TS  0,5% 
+< 80% em até 3TS  0,5% 
+< 90% em até 4TS  0,5% 
+< 100% em até 
+5TS  0,5%

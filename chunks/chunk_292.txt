@@ -1,0 +1,16 @@
+Pages: 85, Start: 0, End: 944
+3.6.1.16 organizar as chaves dos equipamentos de informática;  
+3.6.1.17 alimentar ou preencher no sistema as informações de todos os dados dos 
+equipamentos de informática;  
+3.6.1.18 acompanhar no sistema e fazer cobrança de  atendimentos externos;  
+3.6.1.19 fazer controle de documentos e de equipamentos com relação à 
+entrada/saída;  
+3.6.1.20 reparar, substituir e prestar manutenção em bancada nos equipamentos de 
+informática do TST de acordo com a disponibilidade de peças fornec idas pela 
+SETIN;  
+3.6.1.21 acompanhar técnico de empresa terceira que venha promover ação 
+técnica -operacional em equipamento (informática e telecomunicações) do TST;  
+3.6.1.22 realizar periodicamente limpeza interna dos equipamentos de informática;  
+3.6.1.23 efetuar manutenção, incluindo testes e identificação de avarias, em itens 
+de hardware de informática como, por exemplo, fontes, placas, memórias, 
+unidades de armazenamento, dentre outros;

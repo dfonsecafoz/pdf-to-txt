@@ -1,0 +1,11 @@
+Pages: 208, Start: 0, End: 721
+utilizando-se de linguagem acessível, cuja forma e conteúdo transmitidos contenham 
+cordialidade e o devido respeito; 
+3.3.1.6 executar procedimentos de análise da solici tação, procurando sempre que 
+possível resolvê-la no primeiro contato do usuário;  
+3.3.1.7 encaminhar solicitações de atendimento que não puderam ser resolvidas no 
+primeiro contato para outras equipes de suporte;  
+3.3.1.8 esclarecer dúvidas dos usuários sobre os se rviços de TIC do TST; 
+3.3.1.9 registrar as informações de atendimento de forma clara, simples e objetiva na 
+ferramenta de ITSM (atualmente é utilizado o software  BMC Footprints  v.11.6, sendo 
+passível de atualização de versão ou a adoção de no va ferramenta a critério do TST);

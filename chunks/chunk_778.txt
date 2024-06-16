@@ -1,0 +1,26 @@
+Pages: 238, Start: 0, End: 979
+68 
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho 
+K:\2018\Instrumentos Contratuais\Contratos\Minuta de  contratos\2018minutacontratoPE089 - serviços de se rvice desk.docx gpm 
+ 
+INDICADORES DO SERVIÇO DE SUPORTE TÉCNICO REMOTO 
+ 
+Código  Nome do Indicador Fórmula de cálculo Meta Parâmetros para 
+aplicação da 
+redução na fatura Redução na fatura do 
+mês correspondente à 
+prestação dos 
+serviços 
+I-04 Índice de chamadas 
+telefônicas atendidas no 
+prazo I=A/B *100  
+I=indicador em percentual A=total de chamadas telefônicas atendidas em até 30 segundos B=total de chamadas telefônicas recebidas   Obs.: Percentuais de glosa não cumulativos para este indicador. No mínimo, 90% das 
+chamadas devem ser 
+atendidas em até 30 
+segundos <90% e >=80% 1,5% 
+<80% 3% 
+I-05 Tempo para início de 
+atendimento de demandas 
+registradas por e-mail ou I=A/B *100 
+I=indicador em percentual A=total das demandas registradas cujo No mínimo, 90% das 
+demandas devem iniciar

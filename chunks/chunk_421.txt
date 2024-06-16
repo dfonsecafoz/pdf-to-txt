@@ -1,0 +1,23 @@
+Pages: 133, Start: 0, End: 966
+Submódulo 4.5: CUSTO DE REPOSIÇÃO DO PROFISSIONAL AUSENTE
+4.5 Composição do Custo de Reposição do Profissional Ausente Base de CálculoAlíquota
+(%)Valor
+(R$)
+AFérias Módulo 1 8,33% 558,93             
+BAusência por doença Módulo 1 1,66% 111,38             
+CLicença paternidade Módulo 1 0,02% 1,34                 
+DAusências legais Módulo 1 0,28% 18,78               
+EAusência por acidente de trabalho Módulo 1 0,03% 2,01                 
+Outros (especificar abaixo)
+Subtotal 4.5.1 692,44             
+GIncidência do Submódulo 4.1 Subtotal 4.5.1 15,80% 109,40             
+TOTAL SUBMÓDULO 4.5 801,84           
+Quadro-Resumo do Módulo 4: ENCARGOS SOCIAIS E TRABALHISTAS
+4 Módulo 4 - Encargos Sociais e Trabalhistas Base de CálculoAlíquota
+(%)Valor
+(R$)
+4.1Submódulo 4.1 n/a n/a 1.060,10          
+4.2Submódulo 4.2 n/a n/a 863,24             
+4.3Submódulo 4.3 n/a n/a 44,28               
+4.4Submódulo 4.4 n/a n/a 31,77               
+4.5Submódulo 4.5 n/a n/a 801,84

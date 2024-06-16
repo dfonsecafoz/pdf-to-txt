@@ -1,0 +1,25 @@
+Pages: 152, Start: 0, End: 928
+FAdicional por tempo de serviço
+Obs.:  Só preencha se o profissional tiver direito. Salário Base -                   
+Outros (especificar abaixo)
+Subtotal 1.1: Salário Base + Adicionais 2.652,94          
+1 Componente da RemuneraçãoQuant. Horas 
+MensaisAlíquota
+(%)Valor
+(R$)
+HAdicional noturno
+Obs.:  Só preencha se o profissional tiver direito.
+IHora noturna adicional (ajuste p/ 1h = 52min30seg)
+Obs.:  Só preencha se o profissional tiver direito.0,00 h/mês
+Subtotal 1.2: Adicional Noturno -                   
+1 Componente da RemuneraçãoQuant. Horas 
+MensaisAlíquota
+(%)Valor
+(R$)
+JAdicional de hora extra
+Obs.:  Só preencha se o profissional tiver direito.
+KIntervalo intrajornada (1 h x dia trabalhado)
+Obs.:  Só preencha se o profissional tiver direito.
+Subtotal 1.3: Adicional de hora extra + Intervalo intrajornada -                   
+TOTAL MÓDULO 1 (Remuneração) 2.652,94       
+Módulo 2: BENEFÍCIOS MENSAIS E DIÁRIOS

@@ -1,0 +1,14 @@
+Pages: 231, Start: 0, End: 649
+9. TRANSIÇÃO CONTRATUAL OU ENCERRAMENTO DO CONTRATO 
+9.1. Entrega de produtos finais:  
+9.1.1. No último mês de execução contratual, a Contratada de verá encaminhar, em formato 
+eletrônico, os seguintes itens: 
+a) lista de todos os seus funcionários, contendo o per fil e tipo de acesso aos recursos 
+de TIC; 
+b) relatório mensal do serviço prestado; 
+c) relatório de desempenho das atividades, conforme de scrito no item “8.2 
+transferência de Conhecimentos”; 
+d) conteúdo atualizado da Base de Conhecimento; 
+e) detalhamento do conteúdo das pastas no servidor de arquivos que são gerenciadas 
+pela Contratada. 
+9.2. Transferência de conhecimentos:

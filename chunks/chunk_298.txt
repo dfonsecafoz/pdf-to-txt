@@ -1,0 +1,17 @@
+Pages: 87, Start: 0, End: 985
+controle de licenças);  
+3.7.1.14 criar, manter, testar e aplicar scripts  de configuração de estações (chaves 
+de registros, batches , vbscripts );  
+3.7.1.15 especificar, testar, homologar e verificar compatibili dade de 
+equipamentos e softwares ;  
+3.7.1.16 prestar suporte às transmissões das sessões de julgamento;  
+3.7.1.17 criar, gerenciar, operar e prestar suporte às salas de videoconferência;  
+3.7.1.18 manter site de autoatendimento de TI do TST;  
+3.7.1.19 prestar suporte ao ambiente de ensino à distância do TST ( Moodle );  
+3.7.1.20 realizar abertura de chamadas externas nos fornecedores;  
+3.7.1.21 realizar pesquisas de mercado de produtos e serviços de TI;  
+3.7.1.22 verificar instalações físicas de equipament os de microinformática em 
+rede;  
+3.7.1.23 dar baixa e entrada de almoxarifado de produtos de informática;  
+3.7.1.24 fazer separação e entrega dos suprimentos usados;  
+3.7.1.25 verificar diariamente, nos sistemas, as demandas direcionadas à Seção;

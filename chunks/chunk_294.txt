@@ -1,0 +1,17 @@
+Pages: 86, Start: 0, End: 718
+44 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+3.6.2.3 certificado de conclusão de curso em Microsoft Office  2010, ou superior, 
+de no mínimo 20 horas;  
+3.6.2.4 certificado de par ticipação em curso de montagem e configuração de 
+microcomputadores, com carga horária mínima de 20 horas;  
+3.6.2.5 certificado de participação em curso básico de eletrônica, com carga 
+horária mínima de 20 horas;  
+3.6.2.6 certificação Microsoft Certified Technology Specialist: Windows 7 (ou 
+superior), Configuration .  
+ 
+ 
+3.7 TÉCNICOS DO SUPORTE ESPECIALIZADO – EQUIPE DE SOFTWARE  
+3.7.1 RESPONSABILIDADES:  
+3.7.1.1 investigar, diagnosticar e resolver incidentes de forma presencial ou remota

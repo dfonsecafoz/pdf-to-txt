@@ -1,0 +1,16 @@
+Pages: 84, Start: 0, End: 953
+no mínimo 20 horas ou certificação Microsoft Certified Technolo gy Specialist : 
+Windows  7 (ou superior), Configuration . 
+ 
+3.6 TÉCNICOS DO SUPORTE ESPECIALIZADO – EQUIPE DE HARDWARE  
+3.6.1  RESPONSABILIDADES:  
+3.6.1.1 investigar, diagnosticar e resolver incidentes de forma presencial ou remota 
+nos casos onde não foi possível resolvê -los nas demais equipes de suporte técnico;  
+3.6.1.2 prestar suporte às demais equipes de suporte técnico na investigação, 
+diagnóstico e resolução de incidentes, de forma presencial ou remota;  
+3.6.1.3 investigar, diagnosticar e resolver defi nitivamente a causa raiz de um ou 
+mais incidentes para os casos que não envolverem ativos críticos, que não 
+demandarem tomadas de decisão estratégica, que não envolverem dados sigilosos, 
+dentre outros, que, a critério de TST, deverão ser atribuídos a equip es de 
+servidores;  
+3.6.1.4 pesquisar, criar, alterar, revisar, desativar e manter as informações da Base

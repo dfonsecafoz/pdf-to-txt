@@ -1,0 +1,18 @@
+Pages: 81, Start: 0, End: 995
+de no mínimo 20 horas ou certificação oficial do fabricante.  
+ 
+3.4 SUPERVISORES DO SUPORTE PRESENCIAL E ESPECIALIZADO  
+3.4.1  RESPONSABILIDADES:  
+3.4.1.1  supervisionar a execução dos ser viços de suporte presencial, suporte 
+especializado e suporte aos gabinetes de Ministros;  
+3.4.1.2  efetuar a supervisão em tempo real dos profissionais de suporte técnico 
+sob sua supervisão;  
+3.4.1.3  implantar e manter a escala de trabalho dos profissionais dos serviços 
+sob sua responsabilidade;  
+3.4.1.4 garantir que as informações de atendimento sejam registradas de forma 
+clara, simples e objetiva na ferramenta de ITSM (atualmente é utilizado o software 
+BMC Footprints  v.11.6, sendo passível de atualização de  versão ou a adoção de 
+nova ferramenta a critério do TST);  
+3.4.1.5  designar técnicos para atendimento dos chamados de suporte;  
+3.4.1.6 gerenciar as equipes, redistribuir demandas e empreender esforços para 
+garantir que os indicadores de nível de serviço se jam cumpridos;

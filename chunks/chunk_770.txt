@@ -1,0 +1,23 @@
+Pages: 234, Start: 0, End: 994
+64 
+Poder Judiciário 
+Justiça do Trabalho 
+Tribunal Superior do Trabalho 
+K:\2018\Instrumentos Contratuais\Contratos\Minuta de  contratos\2018minutacontratoPE089 - serviços de ser vice desk.docx gpm 
+ANEXO II – NÍVEIS MÍNIMOS DE SERVIÇO 
+1. Dos indicadores de nível de serviço: 
+1.1. Para efeito desta contratação, os prazos serão conta dos sempre a partir do registro da 
+abertura da demanda, feito nos sistemas de gerencia mento de serviços de TIC, até o seu 
+encerramento, não sendo considerados os tempos que o chamado passou em outras equipes 
+internas do TST, pois não estão no escopo desta pres tação de serviços. 
+1.2. Para efeito desta contratação, estabelecem-se os seg uintes tempos-base para a solução (TS) 
+dos incidentes e solicitações de serviços: 
+Tabela 13: Tempos de solução 
+Serviço Tempo de Solução 
+(TS) em minutos 
+Suporte Técnico 
+Remoto 15 
+Suporte Técnico 
+Presencial 70 
+ 
+1.3. Definição das prioridades utilizadas nos processos d e gerenciamento de serviços de TIC do

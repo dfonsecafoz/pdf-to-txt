@@ -1,0 +1,21 @@
+Pages: 237, Start: 0, End: 861
+67 
+Poder Judiciário Justiça do Trabalho Tribunal Superior do Trabalho 
+K:\2018\Instrumentos Contratuais\Contratos\Minuta de  contratos\2018minutacontratoPE089 - serviços de se rvice desk.docx gpm 
+ 
+INDICADORES DO SERVIÇO DE SUPORTE TÉCNICO REMOTO 
+ 
+Código  Nome do Indicador Fórmula de cálculo Meta Parâmetros para 
+aplicação da 
+redução na fatura Redução na fatura do 
+mês correspondente à 
+prestação dos 
+serviços 
+B = total de chamadas telefônicas recebidas  Obs.: Percentuais de glosa não cumulativos para este indicador. 
+I-03 Tempo médio de 
+conversação I= A / B  
+I = indicador em minutos A = somatório dos tempos de conversação B = total de chamadas telefônicas atendidas   Obs.: Percentuais de glosa não cumulativos para este indicador. O tempo médio de 
+conversação deve ser 
+inferior a 10 minutos > 10 minutos e 
+<=15 minutos 1,5% 
+> 15 minutos 3%

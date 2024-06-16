@@ -1,0 +1,33 @@
+Pages: 95, Start: 0, End: 781
+53 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+set/17  1.406  
+ out/17  1.087  
+ nov/17  689  688 
+dez/17  648  578 
+jan/18  973  774 
+fev/18  1.048  962 
+mar/18  1.367  1218  
+abr/18  1.199  1119  
+mai/18  1.345  1120  
+jun/18  1.400  1231  
+Média mensal  1.226  961  
+Percentual  56%  44%  
+Total da 
+média  2.187  
+  
+ 
+6.1.2.  Volume de ligações atendidas e abandonadas de toda a execução contratual -
+PJE vs Outros Sistemas (e -doc, DEJT, Malote digital, BNDT):  
+ 
+Tabela 5: Ligações CNA - Geral  
+Período  PJe Outros 
+sistemas  TOTAL  
+2014/06  1216  2690  3906  
+2014/07  10365  7195  17560  
+2014/08  9866  5085  14951  
+2014/09  10979  4618  15597  
+2014/10  13221  4829  18050  
+2014/11  14843  4051  18894  
+2014/12  9063  2880  11943

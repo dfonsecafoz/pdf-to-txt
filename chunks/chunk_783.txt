@@ -1,0 +1,11 @@
+Pages: 241, Start: 0, End: 210
+prioridade média  devem 
+ser solucionadas em até 
+3TS observando a 
+seguinte meta parcial: 
+• 90% devem ser solucionadas em até 2TS  
+ < 80% em até 1TS  
+ 0,5% 
+< 90%  em até 2TS  0,5% 
+< 100% em até 
+3TS  0,5%

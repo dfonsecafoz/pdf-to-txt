@@ -1,0 +1,21 @@
+Pages: 198, Start: 0, End: 803
+Tabela 1 
+Grau Correspondência 
+1 0,2% do valor mensal do Contrato 
+2 0,3% do valor mensal do Contrato 
+3 0,4% do valor mensal do Contrato 
+4 0,5% do valor mensal do Contrato 
+5 0,6% do valor mensal do Contrato 
+6 0,8% do valor mensal do Contrato 
+Tabela 2 
+Item  Infração  Grau  Ocorrência  
+1 Permitir situação que crie a possibilidade de causar  
+dano físico, lesão corporal ou consequências letais . 6 Por ocorrência 
+2 Suspender ou interromper, total ou parcial, os servi ços 
+contratuais, salvo por motivo de força maior ou cas o 
+fortuito. 6 Por ocorrência 
+3 Manter funcionário sem a qualificação exigida para 
+executar os serviços contratados. 3 Por ocorrência 
+4 Permitir presença de empregado não uniformizado ou 
+com uniforme manchado, sujo, mal apresentado e/ou 
+sem crachá. 1 Por empregado

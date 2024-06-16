@@ -1,16 +1,17 @@
-Pages: 17, Start: 0, End: 827
-em 23 de agosto de 2020
-180. «Diretor da F1 explica polêmicas em ranking que colocou Senna
-como mais rápido da categoria» (https://globoesporte.globo.com/mot
-or/formula-1/noticia/diretor-da-f1-explica-polemicas-em-ranking-que-
-colocou-senna-como-mais-rapido-da-categoria.ghtml). Globo
-Esporte. 20 de agosto de 2020. Consultado em 20 de agosto de
-2020
-181. «Brawn defends Formula One's fastest driver list» (https://www.esp
-n.in/f1/story/_/id/29698289/brawn-defends-formula-one-fastest-driver
--list). Reuters (em inglês). Consultado em 20 de agosto de 2020 –
-via ESPN
-182. Van Osten, Phillip. «F1 AWS analysis creates a stir with quirky
-'Fastest Driver Ever' ranking» (https://f1i.com/news/381125-f1-aws-a
-nalysis-creates-a-stir-with-odd-fastest-driver-ever-ranking.html).
-F1i.com (em inglês). Consultado em 20 de agosto de 2020
+Pages: 48, Start: 0, End: 731
+6 
+TERMO DE REFERÊNCIA  
+SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO  E COMUNICAÇÃO  
+elevado grau de interdependência do ser viço, que deverá ser executado de maneira 
+integrada e complementar para alcançar o objetivo da contratação.  
+ 
+3.8. O objeto desta contratação encontra -se inserido no conceito de serviço comum 
+continuado, cujos padrões de desempenho e qualidade podem ser objetivamente 
+definidos pelo edital, por meio de especificações usuais no mercado.  
+ 
+3.9. As informações técnicas , que embasam as justificativas  apresentadas , encontram -se 
+registradas no  Estudo  Técnico Preliminar  (ETP) produzido pela Equipe de 
+Planejamento e Apo io a Contratação . 
+ 
+4. FUNDAMENTAÇÃO LEGAL  
+4.1. Na Constituição Federal;

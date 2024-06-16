@@ -1,0 +1,26 @@
+Pages: 99, Start: 0, End: 850
+Ministros nos  finais de semana:  
+Tabela 11: Chamados do plantão  
+Ano Turno 
+Manhã  Turno 
+Tarde  
+2016  0 4 
+2017  3 10 
+2018  1 0 
+Total  4 14 
+ 
+ 
+6.5.5.  Quantidade de chamados para os serviços mais demandados (desde dezembro 
+de 2016):  
+ 
+Tabela 12: Chamados mais demandados  
+ 2016  2017  2018  
+Serviços  Dez Jan Fev Mar  Abr Mai Jun Jul Ago Set Out Nov Dez Jan Fev Mar  Abr 
+Sistemas Corporativos  1570  5100  4703  3626  6215  7619  4178  
+Estação de trabalho  1135  4825  4642  3180  6170  10191  2827  
+Impressora / Scanner  469 2458  2271  1645  1582  2453  765 
+Administração de 
+contas de usuários  307 1017  841 1351  864 1123  471 
+Telefonia  184 3951  708 621 465 521 395 
+Fonte: sistema de gestão de chamados  
+ Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E

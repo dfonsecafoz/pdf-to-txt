@@ -1,0 +1,16 @@
+Pages: 128, Start: 0, End: 567
+- Equipe Especializada em 
+Software30 horas 
+semanaisDiurno 150 horas 7 1 7
+8Técnico do Suporte Presencial 
+- Equipe Especializada em 
+Telefonia30 horas 
+semanaisDiurno 150 horas 7 1 7
+9Técnico do Suporte Presencial - Equipe Especializada de 
+Gabinetes e Ministros 30h30 horas 
+semanaisDiurno 150 horas 6 1 6
+10Técnico do Suporte Presencial 
+- Equipe Especializada de 
+Gabinetes e Ministros 36h36 horas 
+semanaisDiurno 180 horas 4 1 4
+TOTAL 77 n/a 77Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A501753180083FD7XF

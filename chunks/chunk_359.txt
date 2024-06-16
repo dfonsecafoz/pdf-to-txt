@@ -1,0 +1,40 @@
+Pages: 108, Start: 0, End: 879
+(TS) dos incidentes e solicitações de serviços : 
+Tabela 16: Tempos de solução  
+Serviço  Tempo de 
+Solução (TS) em 
+minutos  
+Suporte Técnico 
+Remoto  15 
+Suporte Técnico 
+Presencial  70 
+ 
+1.3. Definição das prioridades utilizadas nos processos de gerenciamento de serviços de 
+TIC do TST:  
+Tabela 17: Prioridades de atendimento  
+PRIORIDADE  
+TIPO  DESCRIÇÃO  EXEMPLOS  TEMPO 
+MÁXIMO 
+PARA 
+SOLUÇÃO 
+NA 
+EQUIPE 
+DE 
+SUPORTE 
+REMOTO  TEMPO 
+MÁXIMO 
+PARA 
+SOLUÇÃO 
+NAS 
+EQUIPES DE 
+SUPORTES 
+PRESENCIAIS  
+Alta Chamados derivados de 
+incidentes com alta urgência 
+para solução e alto impacto 
+nos serviços de negócio do 
+TST.  Indisponibilidade em serviços 
+críticos.  
+Demandas de Ministros para 
+atendimento no TST . 
+Estimativa de 4% das demandas.  1TS 1TS Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E

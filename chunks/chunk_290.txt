@@ -1,0 +1,12 @@
+Pages: 84, Start: 0, End: 728
+dentre outros, que, a critério de TST, deverão ser atribuídos a equip es de 
+servidores;  
+3.6.1.4 pesquisar, criar, alterar, revisar, desativar e manter as informações da Base 
+de Conhecimento, tais como, manuais técnicos, tutoriais e outros documentos 
+relacionados à prestação do serviço;  
+3.6.1.5 criar, testar e gerenciar as im agens de perfis de microcomputadores e 
+notebooks;  
+3.6.1.6 criar, manter, testar e aplicar scripts  de configuração de estações (chaves de 
+registros, batches , vbscripts );  
+3.6.1.7 especificar, testar, homologar e verificar compatibilidade de equipamentos 
+e softwares ;  Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E

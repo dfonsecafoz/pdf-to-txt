@@ -1,0 +1,10 @@
+Pages: 86, Start: 0, End: 617
+diretório da rede;  
+3.7.1.6 configurar e manter, em conjunto com equipe específica da SETIN, o 
+ambiente de estação virtual denominado Gabinete Virtual ( Citrix Meta frame );  
+3.7.1.7 desenhar, revisar e propor melhorias nos fluxos de processos de trabalho 
+para os serviços de TIC;  
+3.7.1.8 gerenciar, manter, controlar o acesso e operar servidor de arquivos, de 
+drivers , de software,  dentre outros;  
+3.7.1.9 criar, testar e gerenciar as imagens de perfis de microcomputadores e 
+notebooks;  Este documento pode ser acessado no endereço eletrônico http://www.tst.jus.br/validador sob código A5017531800755YY1E
