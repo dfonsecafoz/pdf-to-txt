@@ -1,4 +1,6 @@
 import os
+import faiss
+import numpy as np
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 from langchain_community.document_loaders.pdf import PyPDFLoader
@@ -11,6 +13,7 @@ def main():
     pdf_path = 'meucodigo.pdf'
     txt_path = 'meucodigo.txt'
     chunks_dir = './chunks'
+    index_path = './faiss_index.index'
 
     # Criar o diretório /chunks se não existir
     if not os.path.exists(chunks_dir):
@@ -41,6 +44,15 @@ def main():
 
     # Gerar embeddings para os chunks
     embeddings = model.encode(chunks, show_progress_bar=True)
+    embeddings = np.array(embeddings).astype('float32')
+
+    # Criar e treinar o índice FAISS
+    dimension = embeddings.shape[1]
+    index = faiss.IndexFlatL2(dimension)
+    index.add(embeddings)
+
+    # Salvar o índice FAISS
+    faiss.write_index(index, index_path)
 
     # Salvar os chunks e os embeddings no diretório /chunks
     for i, (chunk, embedding, reference) in enumerate(zip(chunks, embeddings, chunk_references)):
