@@ -16,7 +16,7 @@ def extract_text_from_pdf(pdf_path):
         start_pos = len(text)
         text += page_text
         end_pos = len(text)
-        references.append((page_num, start_pos, end_pos))
+        references.append((page_num + 1, start_pos, end_pos))  # Pages are 1-indexed
 
     pdf_file.close()
     return text, references
@@ -24,6 +24,13 @@ def extract_text_from_pdf(pdf_path):
 def save_text_to_file(text, txt_path):
     with open(txt_path, 'w') as txt_file:
         txt_file.write(text)
+
+def find_page_for_chunk(chunk_start_pos, chunk_end_pos, references):
+    pages = set()
+    for page_num, start_pos, end_pos in references:
+        if start_pos <= chunk_start_pos < end_pos or start_pos < chunk_end_pos <= end_pos:
+            pages.add(page_num)
+    return pages
 
 def main():
     pdf_path = 'meucodigo.pdf'
@@ -51,13 +58,12 @@ def main():
     for chunk in chunks:
         chunk_start_pos = text.find(chunk, current_pos)
         chunk_end_pos = chunk_start_pos + len(chunk)
-        current_pos = chunk_end_pos
+        current_pos = chunk_end_pos - 200  # Ajustar a posição atual para considerar a sobreposição
 
-        # Encontrar a referência correspondente ao chunk
-        for page_num, start_pos, end_pos in references:
-            if chunk_start_pos >= start_pos and chunk_end_pos <= end_pos:
-                chunk_references.append((page_num, chunk_start_pos, chunk_end_pos))
-                break
+        # Encontrar as referências de página correspondentes ao chunk usando a função find_page_for_chunk
+        pages = find_page_for_chunk(chunk_start_pos, chunk_end_pos, references)
+        page_str = ', '.join(map(str, pages))
+        chunk_references.append((page_str, chunk_start_pos, chunk_end_pos))
 
     # Carregar o modelo de embeddings local
     model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -67,7 +73,7 @@ def main():
 
     # Salvar os chunks e os embeddings no diretório /chunks
     for i, (chunk, embedding, reference) in enumerate(zip(chunks, embeddings, chunk_references)):
-        chunk_with_reference = f"Page: {reference[0]+1}, Start: {reference[1]}, End: {reference[2]}\n{chunk}"
+        chunk_with_reference = f"Pages: {reference[0]}, Start: {reference[1]}, End: {reference[2]}\n{chunk}"
         chunk_txt_path = os.path.join(chunks_dir, f'chunk_{i+1}.txt')
         save_text_to_file(chunk_with_reference, chunk_txt_path)
         print(f'Chunk {i+1} salvo em {chunk_txt_path}')
