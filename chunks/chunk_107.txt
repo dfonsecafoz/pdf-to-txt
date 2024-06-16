@@ -1,18 +1,131 @@
-Pages: 13, 14, Start: 84465, End: 85402
-Nota 3 - empatado com Lewis Hamilton.
-Equipe VitóriasRef
- McLaren 35[218]
- Lotus 6[219]Recordes Ainda Ativos
-Vitórias por equipe na F1Ayrton Senna escreveu um livro em 1991 sobre as técnicas de pilotagem de um carro de corrida. A obra foi publicada na Itália e posteriormente lançada em outras
-língua s, como o inglês e portuguê s.[220][221]
-"Guidare in Pista", Editora La Mille Miglia Editrice (1991).[222]
-"Ayrton Senna's Principles of Race Driving", Editora Hazleton Pub (1993).[223]
-"A Arte de Pilotar", Editora Globo (1993).[224]
-Automobilismo de velocidade
-Lista de conquistas na carreira de Ayrton Senna
-Lista de pilotos brasileiros na Fórmula 1
-Senninha
-Tema da Vitória
-1. Na entrevista, Senna disse: "Eu conheci a Catherine [Valentim] (...) como mulher".
-2. "A questão é que ele preferia de longe o carro e as corridas.", recordou Patrícia Machado, que namorou o piloto em 1991 - 100 anos em 34,
-Revista Veja, 3 de maio de 1994.
+Pages: 12, Start: 0, End: 935
+MP4/5Honda
+RA109A
+V10BRA
+11ºSMR
+1ºMON
+1ºMEX
+1ºEUA
+RetCAN
+7ºFRA
+RetGBR
+RetALE
+1ºHUN
+2ºBEL
+1ºITA
+RetPOR
+RetESP
+1ºJAP
+DSQ
+1988Honda
+Marlboro
+McLarenMcLaren
+MP4/4Honda
+RA168E
+V6
+TurboBRA
+DSQSMR
+1ºMON
+RetMEX
+2ºCAN
+1ºDET
+1ºFRA
+2ºGBR
+1ºALE
+1ºHUN
+1ºBEL
+1ºITA
+10ºPOR
+6ºESP
+4ºJAP
+1º
+1987Camel Team
+Lotus
+HondaLotus
+99THonda
+RA166E
+V6
+TurboBRA
+RetSMR
+2ºBEL
+RetMON
+1ºDET
+1ºFRA
+4ºGBR
+3ºALE
+3ºHUN
+2ºAUT
+5ºITA
+2ºPOR
+7ºESP
+5ºMEX
+RetJAP
+2º
+1986John Player
+Special
+Team LotusLotus
+98TRenault
+EF15B
+V6
+TurboBRA
+2ºESP
+1ºSMR
+RetMON
+3ºBEL
+2ºCAN
+5ºDET
+1ºFRA
+RetGBR
+RetALE
+2ºHUN
+2ºAUT
+RetITA
+RetPOR
+4ºMEX
+3º
+1985John Player
+Special
+Team LotusLotus
+97TRenault
+EF4B
+V6
+TurboBRA
+RetPOR
+1ºSMR
+7ºMON
+RetCAN
+16ºDET
+RetFRA
+RetGBR
+10ºALE
+RetAUT
+2ºHOL
+3ºITA
+3ºBEL
+1ºEUR
+2ºAFS
+Ret
+1984Toleman
+Group
+MotorsportToleman
+TG183BHart
+415T
+L4
+TurboBRA
+RetAFS
+6ºBEL
+6ºSMR
+NQ
+Toleman
+TG184FRA
+RetMON
+2º2CAN
+7ºDET
+RetDAL
+RetGBR
+3ºALE
+RetAUT
+RetHOL
+RetITAEUR
+Ret
+↑1 Nos descartes.
