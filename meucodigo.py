@@ -1,5 +1,6 @@
 import PyPDF2
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from sentence_transformers import SentenceTransformer
 
 def extract_text_from_pdf(pdf_path):
     pdf_file = open(pdf_path, 'rb')
@@ -34,11 +35,20 @@ def main():
 
     chunks = text_splitter.split_text(text=text)
 
-    # Salvar os chunks em arquivos separados ou conforme necessário
-    for i, chunk in enumerate(chunks):
+    # Carregar o modelo de embeddings local
+    model = SentenceTransformer('all-MiniLM-L6-v2')
+
+    # Gerar embeddings para os chunks
+    embeddings = model.encode(chunks, show_progress_bar=True)
+
+    # Salvar os chunks e os embeddings
+    for i, (chunk, embedding) in enumerate(zip(chunks, embeddings)):
         chunk_txt_path = f'chunk_{i+1}.txt'
         save_text_to_file(chunk, chunk_txt_path)
         print(f'Chunk {i+1} salvo em {chunk_txt_path}')
+        embedding_txt_path = f'embedding_{i+1}.txt'
+        save_text_to_file(str(embedding), embedding_txt_path)
+        print(f'Embedding {i+1} salvo em {embedding_txt_path}')
 
     # Opcional: salvar o texto completo em um único arquivo
     save_text_to_file(text, txt_path)
