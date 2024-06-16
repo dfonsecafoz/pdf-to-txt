@@ -8,13 +8,18 @@ def extract_text_from_pdf(pdf_path):
     pdf_reader = PyPDF2.PdfReader(pdf_file)
     num_pages = len(pdf_reader.pages)
     text = ''
-    
+    references = []
+
     for page_num in range(num_pages):
         page = pdf_reader.pages[page_num]
-        text += page.extract_text()
+        page_text = page.extract_text()
+        start_pos = len(text)
+        text += page_text
+        end_pos = len(text)
+        references.append((page_num, start_pos, end_pos))
 
     pdf_file.close()
-    return text
+    return text, references
 
 def save_text_to_file(text, txt_path):
     with open(txt_path, 'w') as txt_file:
@@ -29,7 +34,7 @@ def main():
     if not os.path.exists(chunks_dir):
         os.makedirs(chunks_dir)
 
-    text = extract_text_from_pdf(pdf_path)
+    text, references = extract_text_from_pdf(pdf_path)
     print(text)
 
     # Utilizar RecursiveCharacterTextSplitter para dividir o texto em chunks
@@ -40,6 +45,19 @@ def main():
     )
 
     chunks = text_splitter.split_text(text=text)
+    chunk_references = []
+
+    current_pos = 0
+    for chunk in chunks:
+        chunk_start_pos = text.find(chunk, current_pos)
+        chunk_end_pos = chunk_start_pos + len(chunk)
+        current_pos = chunk_end_pos
+
+        # Encontrar a referência correspondente ao chunk
+        for page_num, start_pos, end_pos in references:
+            if chunk_start_pos >= start_pos and chunk_end_pos <= end_pos:
+                chunk_references.append((page_num, chunk_start_pos, chunk_end_pos))
+                break
 
     # Carregar o modelo de embeddings local
     model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -48,9 +66,10 @@ def main():
     embeddings = model.encode(chunks, show_progress_bar=True)
 
     # Salvar os chunks e os embeddings no diretório /chunks
-    for i, (chunk, embedding) in enumerate(zip(chunks, embeddings)):
+    for i, (chunk, embedding, reference) in enumerate(zip(chunks, embeddings, chunk_references)):
+        chunk_with_reference = f"Page: {reference[0]+1}, Start: {reference[1]}, End: {reference[2]}\n{chunk}"
         chunk_txt_path = os.path.join(chunks_dir, f'chunk_{i+1}.txt')
-        save_text_to_file(chunk, chunk_txt_path)
+        save_text_to_file(chunk_with_reference, chunk_txt_path)
         print(f'Chunk {i+1} salvo em {chunk_txt_path}')
         
         embedding_txt_path = os.path.join(chunks_dir, f'embedding_{i+1}.txt')
