@@ -15,7 +15,7 @@ def load_index(index_path):
     return faiss.read_index(index_path)
 
 def search_index(index, query_embedding, k=5):
-    D, I = index.search(query_embedding, k)  # D são as distâncias, I são os índices dos vetores mais próximos
+    D, I = index.search(query_embedding, k)  # D são as distâncias, I são os índices dos vetores mais próximos.
     return D, I
 
 def main():
