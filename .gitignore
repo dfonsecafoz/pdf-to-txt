@@ -1,5 +1,5 @@
 # Ignore o ambiente virtual
 .venv/
-
+.env
 # Ignore a pasta chunks
 chunks/
