@@ -31,6 +31,14 @@ def get_embedding(text, model="text-embedding-3-small"):
     response = client.embeddings.create(input=[text], model=model)
     return response.data[0].embedding
 
+# Função para obter resposta do modelo GPT-4
+def get_gpt4_response(prompt):
+    response = client.chat.completions.create(
+        model="gpt-4",
+        messages=[{"role": "user", "content": prompt}]
+    )
+    return response.choices[0].message.content
+
 def main():
     st.title("Busca de Similaridade em PDFs")
     uploaded_file = st.file_uploader("Envie seu PDF", type="pdf")
@@ -116,8 +124,14 @@ def main():
             st.write("Distâncias:", D)
             st.write("Índices dos vetores mais próximos:", I)
 
-            for idx in I[0]:  # Iterar pelos índices dos vetores mais próximos
-                st.write(f'Chunk encontrado: {chunks[idx]}')
+            most_similar_chunk = chunks[I[0][0]]
+            st.write(f'Chunk mais relevante: {most_similar_chunk}')
+
+            # Criar o prompt para o GPT-4 combinando o chunk mais relevante e a consulta
+            prompt = f"Baseado no seguinte texto extraído do PDF, responda à pergunta:\n\nTexto: {most_similar_chunk}\n\nPergunta: {query_text}\nResposta:"
+            response = get_gpt4_response(prompt)
+            st.write("Resposta do modelo GPT-4:")
+            st.write(response)
 
 if __name__ == '__main__':
     main()
