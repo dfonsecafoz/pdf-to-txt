@@ -103,7 +103,7 @@ def main():
         query_text = st.text_input("Digite sua consulta:")
 
         if query_text:
-            # Carregar o índice. FAISS
+            # Carregar o índice FAISS
             index = load_index(index_path)
 
             # Gerar embedding para a consulta usando o modelo da OpenAI
