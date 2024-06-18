@@ -3,13 +3,9 @@ import faiss
 import numpy as np
 import streamlit as st
 from tempfile import NamedTemporaryFile
-from dotenv import load_dotenv
+from sentence_transformers import SentenceTransformer
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders.pdf import PyPDFLoader
-from langchain_openai import OpenAIEmbeddings
-
-# Carregar variáveis de ambiente do arquivo .env
-load_dotenv()
 
 def save_text_to_file(text, txt_path):
     with open(txt_path, 'w') as txt_file:
@@ -64,19 +60,11 @@ def main():
             chunk_references.append((pages, 0, len(chunk)))  # Aqui, 0 e len(chunk) são placeholders
             chunks.append(chunk)
 
-        # Configurar a chave da API da OpenAI
-        openai_api_key = os.getenv("OPENAI_API_KEY")
-        if openai_api_key is None:
-            st.error("OpenAI API key não encontrada. Certifique-se de que o arquivo .env está configurado corretamente.")
-            return
-
-        os.environ["OPENAI_API_KEY"] = openai_api_key
-
-        # Carregar o modelo de embeddings da OpenAI
-        embeddings_model = OpenAIEmbeddings(model="text-embedding-3-large")
+        # Carregar o modelo de embeddings local
+        model = SentenceTransformer('all-MiniLM-L6-v2')
 
         # Gerar embeddings para os chunks
-        embeddings = embeddings_model.embed_documents(chunks)
+        embeddings = model.encode(chunks, show_progress_bar=True)
         embeddings = np.array(embeddings).astype('float32')
 
         # Criar e treinar o índice FAISS
@@ -111,8 +99,11 @@ def main():
         # Carregar o índice FAISS
         index = load_index(index_path)
 
+        # Carregar o modelo de embeddings
+        model = SentenceTransformer('all-MiniLM-L6-v2')
+
         # Gerar embedding para a consulta
-        query_embedding = np.array(embeddings_model.embed_query(query_text)).reshape(1, -1).astype('float32')
+        query_embedding = model.encode([query_text]).astype('float32')
 
         # Realizar a busca no índice FAISS
         D, I = search_index(index, query_embedding)
