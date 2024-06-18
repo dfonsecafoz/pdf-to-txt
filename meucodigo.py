@@ -3,9 +3,12 @@ import faiss
 import numpy as np
 import streamlit as st
 from tempfile import NamedTemporaryFile
-from sentence_transformers import SentenceTransformer
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders.pdf import PyPDFLoader
+from openai import OpenAI
+
+# Configure sua chave de API da OpenAI
+client = OpenAI(api_key='sk-proj-p1eGorAXHgP9y90wanlOT3BlbkFJKhbZlw9SRxJuRCXooa2N')
 
 def save_text_to_file(text, txt_path):
     with open(txt_path, 'w') as txt_file:
@@ -17,6 +20,11 @@ def load_index(index_path):
 def search_index(index, query_embedding, k=5):
     D, I = index.search(query_embedding, k)  # D são as distâncias, I são os índices dos vetores mais próximos.
     return D, I
+
+# Função para obter o embedding usando a API da OpenAI
+def get_embedding(text, model="text-embedding-3-small"):
+    response = client.embeddings.create(input=[text], model=model)
+    return response.data[0].embedding
 
 def main():
     st.title("Busca de Similaridade em PDFs")
@@ -60,12 +68,8 @@ def main():
             chunk_references.append((pages, 0, len(chunk)))  # Aqui, 0 e len(chunk) são placeholders
             chunks.append(chunk)
 
-        # Carregar o modelo de embeddings local
-        model = SentenceTransformer('all-MiniLM-L6-v2')
-
-        # Gerar embeddings para os chunks
-        embeddings = model.encode(chunks, show_progress_bar=True)
-        embeddings = np.array(embeddings).astype('float32')
+        # Gerar embeddings para os chunks usando o modelo da OpenAI
+        embeddings = np.array([get_embedding(chunk) for chunk in chunks]).astype('float32')
 
         # Criar e treinar o índice FAISS
         dimension = embeddings.shape[1]
@@ -99,11 +103,8 @@ def main():
         # Carregar o índice FAISS
         index = load_index(index_path)
 
-        # Carregar o modelo de embeddings
-        model = SentenceTransformer('all-MiniLM-L6-v2')
-
-        # Gerar embedding para a consulta
-        query_embedding = model.encode([query_text]).astype('float32')
+        # Gerar embedding para a consulta usando o modelo da OpenAI
+        query_embedding = np.array([get_embedding(query_text)]).astype('float32')
 
         # Realizar a busca no índice FAISS
         D, I = search_index(index, query_embedding)

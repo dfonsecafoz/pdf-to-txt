@@ -8,7 +8,9 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders.pdf import PyPDFLoader
 import redis
 import hashlib
-import openai
+from openai import OpenAI
+
+client = OpenAI()
 
 def save_text_to_file(text, txt_path):
     with open(txt_path, 'w') as txt_file:
@@ -39,8 +41,8 @@ def get_combined_key(file_paths):
     return hasher.hexdigest()
 
 def get_openai_embedding(text):
-    response = openai.Embedding.create(input=[text], model="text-embedding-ada-002")
-    return response["data"][0]["embedding"]
+    response = client.embeddings.create(input=[text], model="text-embedding-ada-002")
+    return response.data[0].embedding
 
 def main():
     st.title("Busca de Similaridade em PDFs")
@@ -108,7 +110,7 @@ def main():
             chunk_txt_path = os.path.join(chunks_dir, f'chunk_{i+1}.txt')
             save_text_to_file(chunk_with_reference, chunk_txt_path)
             st.write(f'Chunk {i+1} salvo em {chunk_txt_path}')
-            
+
             embedding_txt_path = os.path.join(chunks_dir, f'embedding_{i+1}.txt')
             save_text_to_file(str(embedding), embedding_txt_path)
             st.write(f'Embedding {i+1} salvo em {embedding_txt_path}')
