@@ -6,9 +6,14 @@ from tempfile import NamedTemporaryFile
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders.pdf import PyPDFLoader
 from openai import OpenAI
+from dotenv import load_dotenv
 
-# Configure sua chave de API da OpenAI
-client = OpenAI(api_key='sk-proj-p1eGorAXHgP9y90wanlOT3BlbkFJKhbZlw9SRxJuRCXooa2N')
+# Carregar variáveis do arquivo .env
+load_dotenv()
+
+# Obter a chave de API da OpenAI do arquivo .env
+api_key = os.getenv('OPENAI_API_KEY')
+client = OpenAI(api_key=api_key)
 
 def save_text_to_file(text, txt_path):
     with open(txt_path, 'w') as txt_file:
@@ -84,37 +89,35 @@ def main():
             chunk_with_reference = f"Pages: {reference[0]}, Start: {reference[1]}, End: {reference[2]}\n{chunk}"
             chunk_txt_path = os.path.join(chunks_dir, f'chunk_{i+1}.txt')
             save_text_to_file(chunk_with_reference, chunk_txt_path)
-            st.write(f'Chunk {i+1} salvo em {chunk_txt_path}')
             
             embedding_txt_path = os.path.join(chunks_dir, f'embedding_{i+1}.txt')
             save_text_to_file(str(embedding), embedding_txt_path)
-            st.write(f'Embedding {i+1} salvo em {embedding_txt_path}')
 
         # Opcional: salvar o texto completo em um único arquivo
         full_text = "\n".join(chunks)
         save_text_to_file(full_text, txt_path)
-        st.write(f'Texto completo salvo em {txt_path}')
 
-        st.success("Processamento do PDF concluído!")
+        st.success("Processamento do PDF concluído! Você pode agora fazer uma pergunta.")
 
-    query_text = st.text_input("Digite sua consulta:")
+        # Permitir ao usuário inserir uma consulta de texto após o PDF ter sido processado
+        query_text = st.text_input("Digite sua consulta:")
 
-    if query_text:
-        # Carregar o índice FAISS
-        index = load_index(index_path)
+        if query_text:
+            # Carregar o índice FAISS
+            index = load_index(index_path)
 
-        # Gerar embedding para a consulta usando o modelo da OpenAI
-        query_embedding = np.array([get_embedding(query_text)]).astype('float32')
+            # Gerar embedding para a consulta usando o modelo da OpenAI
+            query_embedding = np.array([get_embedding(query_text)]).astype('float32')
 
-        # Realizar a busca no índice FAISS
-        D, I = search_index(index, query_embedding)
+            # Realizar a busca no índice FAISS
+            D, I = search_index(index, query_embedding)
 
-        # Exibir os resultados
-        st.write("Distâncias:", D)
-        st.write("Índices dos vetores mais próximos:", I)
+            # Exibir os resultados
+            st.write("Distâncias:", D)
+            st.write("Índices dos vetores mais próximos:", I)
 
-        for idx in I[0]:  # Iterar pelos índices dos vetores mais próximos
-            st.write(f'Chunk encontrado: {chunks[idx]}')
+            for idx in I[0]:  # Iterar pelos índices dos vetores mais próximos
+                st.write(f'Chunk encontrado: {chunks[idx]}')
 
 if __name__ == '__main__':
     main()
