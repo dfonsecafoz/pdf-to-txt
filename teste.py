@@ -11,7 +11,7 @@ def get_embedding(text, model="text-embedding-3-small"):
     response = client.embeddings.create(input=[text], model=model)
     return response.data[0].embedding
 
-# Função para calcular a similaridade de cosseno entre dois vetores
+# Função para calcular a similaridade de cosseno entssre dois vetores
 def cosine_similarity(a, b):
     a = np.array(a)
     b = np.array(b)
